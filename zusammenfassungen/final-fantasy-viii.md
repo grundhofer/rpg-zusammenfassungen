@@ -82,10 +82,10 @@ Die Quellen beschreiben ein einziges Ende ohne Verzweigungen: Artemisia wird bes
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_VIII
-2. https://de.wikipedia.org/wiki/Final_Fantasy_VIII
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII_story
-4. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII
-5. https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VIII
-6. https://finalfantasy.fandom.com/wiki/Fury_Caraway
-7. https://finalfantasy.fandom.com/wiki/Laguna_Loire
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_VIII>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_VIII>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII_story>
+4. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII>
+5. <https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VIII>
+6. <https://finalfantasy.fandom.com/wiki/Fury_Caraway>
+7. <https://finalfantasy.fandom.com/wiki/Laguna_Loire>

@@ -82,9 +82,9 @@ Weitere Abhängigkeiten:
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Baldur%27s_Gate_3
-2. https://de.wikipedia.org/wiki/Baldur%E2%80%99s_Gate_3
-3. https://bg3.wiki/wiki/Act_One
-4. https://bg3.wiki/wiki/Act_Two
-5. https://bg3.wiki/wiki/Act_Three
-6. https://bg3.wiki/wiki/Endings
+1. <https://en.wikipedia.org/wiki/Baldur%27s_Gate_3>
+2. <https://de.wikipedia.org/wiki/Baldur%E2%80%99s_Gate_3>
+3. <https://bg3.wiki/wiki/Act_One>
+4. <https://bg3.wiki/wiki/Act_Two>
+5. <https://bg3.wiki/wiki/Act_Three>
+6. <https://bg3.wiki/wiki/Endings>

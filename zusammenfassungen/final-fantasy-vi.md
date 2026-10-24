@@ -78,10 +78,10 @@ Das Spiel hat ein Hauptende: Kefka wird besiegt, Magie und Esper verschwinden. D
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_VI
-2. https://de.wikipedia.org/wiki/Final_Fantasy_VI
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI
-4. https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VI
-5. https://finalfantasy.fandom.com/wiki/Cid_Del_Norte_Marguez
-6. https://finalfantasy.fandom.com/wiki/Solitary_Island
-7. https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_VI
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_VI>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_VI>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI>
+4. <https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VI>
+5. <https://finalfantasy.fandom.com/wiki/Cid_Del_Norte_Marguez>
+6. <https://finalfantasy.fandom.com/wiki/Solitary_Island>
+7. <https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_VI>

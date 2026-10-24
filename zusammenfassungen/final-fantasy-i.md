@@ -73,8 +73,8 @@ Das Spiel hat nach den vorliegenden Quellen nur ein Ende, das nicht von Spielere
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)
-2. https://de.wikipedia.org/wiki/Final_Fantasy_(Computerspiel)
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy
-4. https://finalfantasy.fandom.com/wiki/Marilith_(Final_Fantasy)
-5. https://finalfantasy.fandom.com/wiki/Garland_(Final_Fantasy)
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_(Computerspiel)>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy>
+4. <https://finalfantasy.fandom.com/wiki/Marilith_(Final_Fantasy)>
+5. <https://finalfantasy.fandom.com/wiki/Garland_(Final_Fantasy)>

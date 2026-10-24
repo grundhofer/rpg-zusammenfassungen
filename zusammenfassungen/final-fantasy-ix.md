@@ -73,8 +73,8 @@ Das Spiel hat laut den Quellen ein einziges Ende. Eine zusätzliche Szene im Epi
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_IX
-2. https://de.wikipedia.org/wiki/Final_Fantasy_IX
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX
-4. https://finalfantasy.fandom.com/wiki/Zidane_Tribal
-5. https://finalfantasy.fandom.com/wiki/I_Want_to_Be_Your_Canary
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_IX>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_IX>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX>
+4. <https://finalfantasy.fandom.com/wiki/Zidane_Tribal>
+5. <https://finalfantasy.fandom.com/wiki/I_Want_to_Be_Your_Canary>

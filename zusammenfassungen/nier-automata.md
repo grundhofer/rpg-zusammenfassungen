@@ -78,13 +78,13 @@ Die deutsche Wikipedia fasst Ende C knapp so, dass A2 9S nach dem Kampf „heilt
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Nier:_Automata
-2. https://de.wikipedia.org/wiki/Nier:_Automata
-3. https://nier.fandom.com/wiki/NieR:Automata
-4. https://nier.fandom.com/wiki/NieR:Automata/Endings
-5. https://nier.fandom.com/wiki/Flowers_for_m(A)chines
-6. https://nier.fandom.com/wiki/Or_not_to_(B)e
-7. https://nier.fandom.com/wiki/Meaningless_(C)ode
-8. https://nier.fandom.com/wiki/Chil(D)hood%27s_end
-9. https://nier.fandom.com/wiki/The_(E)nd_of_YoRHa
-10. https://www.trophies.de/forum/thema/139235-troph%C3%A4en-leitfaden-nier-automata/
+1. <https://en.wikipedia.org/wiki/Nier:_Automata>
+2. <https://de.wikipedia.org/wiki/Nier:_Automata>
+3. <https://nier.fandom.com/wiki/NieR:Automata>
+4. <https://nier.fandom.com/wiki/NieR:Automata/Endings>
+5. <https://nier.fandom.com/wiki/Flowers_for_m(A)chines>
+6. <https://nier.fandom.com/wiki/Or_not_to_(B)e>
+7. <https://nier.fandom.com/wiki/Meaningless_(C)ode>
+8. <https://nier.fandom.com/wiki/Chil(D)hood%27s_end>
+9. <https://nier.fandom.com/wiki/The_(E)nd_of_YoRHa>
+10. <https://www.trophies.de/forum/thema/139235-troph%C3%A4en-leitfaden-nier-automata/>

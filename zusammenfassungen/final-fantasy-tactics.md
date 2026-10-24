@@ -78,13 +78,13 @@ Die Quellen beschreiben ein einziges Ende; verzweigte Handlungspfade wollte Regi
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
-2. https://de.wikipedia.org/wiki/Final_Fantasy_Tactics
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics
-4. https://finalfantasy.fandom.com/wiki/Arazlam_Jenomis_Durai
-5. https://finalfantasy.fandom.com/wiki/Orran_Durai
-6. https://finalfantasy.fandom.com/wiki/Delita_Heiral
-7. https://finalfantasy.fandom.com/wiki/Louveria_Atkascha
-8. https://finalfantasy.fandom.com/wiki/Goffard_Gaffgarion
-9. https://finalfantasy.fandom.com/wiki/Druksmald_Goltanna
-10. https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_Tactics>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_Tactics>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics>
+4. <https://finalfantasy.fandom.com/wiki/Arazlam_Jenomis_Durai>
+5. <https://finalfantasy.fandom.com/wiki/Orran_Durai>
+6. <https://finalfantasy.fandom.com/wiki/Delita_Heiral>
+7. <https://finalfantasy.fandom.com/wiki/Louveria_Atkascha>
+8. <https://finalfantasy.fandom.com/wiki/Goffard_Gaffgarion>
+9. <https://finalfantasy.fandom.com/wiki/Druksmald_Goltanna>
+10. <https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions>

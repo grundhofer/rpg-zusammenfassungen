@@ -82,8 +82,8 @@ Laut Fan-Wiki hängt der Ausgang an zwei Dingen: Wurden alle 108 Sterne rekrutie
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Suikoden_II
-2. https://suikoden.fandom.com/wiki/Suikoden_II
-3. https://suikoden.fandom.com/wiki/Riou
-4. https://de.wikipedia.org/wiki/Suikoden
-5. https://suikoden.fandom.com/wiki/Jowy_Atreides
+1. <https://en.wikipedia.org/wiki/Suikoden_II>
+2. <https://suikoden.fandom.com/wiki/Suikoden_II>
+3. <https://suikoden.fandom.com/wiki/Riou>
+4. <https://de.wikipedia.org/wiki/Suikoden>
+5. <https://suikoden.fandom.com/wiki/Jowy_Atreides>

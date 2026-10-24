@@ -106,9 +106,9 @@ Der Aufbau folgt einem Muster aus Zufallsstart, Vertiefung und Gegenschlag. Der 
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Chrono_Trigger
-2. https://de.wikipedia.org/wiki/Chrono_Trigger
-3. https://chrono.fandom.com/wiki/Chrono_Trigger
-4. https://chrono.fandom.com/wiki/List_of_Chrono_Trigger_endings
-5. https://chrono.fandom.com/wiki/Lucca
-6. https://chrono.fandom.com/wiki/Melchior
+1. <https://en.wikipedia.org/wiki/Chrono_Trigger>
+2. <https://de.wikipedia.org/wiki/Chrono_Trigger>
+3. <https://chrono.fandom.com/wiki/Chrono_Trigger>
+4. <https://chrono.fandom.com/wiki/List_of_Chrono_Trigger_endings>
+5. <https://chrono.fandom.com/wiki/Lucca>
+6. <https://chrono.fandom.com/wiki/Melchior>

@@ -90,8 +90,8 @@ Der Protagonist stellt sich der Polizei, damit Shido verurteilt wird. Seine Freu
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Persona_5
-2. https://de.wikipedia.org/wiki/Persona_5
-3. https://megamitensei.fandom.com/wiki/Persona_5
-4. https://en.wikipedia.org/wiki/Persona_3
-5. https://de.wikipedia.org/wiki/Persona_(Computerspielreihe)
+1. <https://en.wikipedia.org/wiki/Persona_5>
+2. <https://de.wikipedia.org/wiki/Persona_5>
+3. <https://megamitensei.fandom.com/wiki/Persona_5>
+4. <https://en.wikipedia.org/wiki/Persona_3>
+5. <https://de.wikipedia.org/wiki/Persona_(Computerspielreihe)>

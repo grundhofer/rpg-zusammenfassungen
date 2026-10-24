@@ -4,4 +4,5 @@
 .site-main h2 { margin-block-start: var(--sb-spacing-section); }
 .site-crumb { margin: 0 0 var(--sb-space-4); }
 .site-pager { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); column-gap: var(--sb-space-6); margin-block-start: var(--sb-spacing-section); max-inline-size: var(--sb-size-measure-prose); }
-.site-pager .sb-pager--next { text-align: end; }
+/* lange deutsche Wörter in Überschriften trennen statt mitten im Wort umzubrechen */
+.site-main h1, .site-main h2, .site-main h3 { hyphens: auto; overflow-wrap: normal; }

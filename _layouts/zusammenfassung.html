@@ -6,12 +6,12 @@ layout: default
 {% assign vor = i | minus: 1 %}{% assign nach = i | plus: 1 %}
 <nav class="sb-breadcrumb site-crumb" aria-label="Brotkrumen">
   <ol>
-    <li><a href="{{ '/' | relative_url }}">Alle Spiele</a></li>
+    <li><a href="{{ '/' | relative_url }}">Alle Spiele</a><svg class="sb-icon sb-icon--16" aria-hidden="true" focusable="false"><use href="#chevron-right--16"/></svg></li>
     <li><span aria-current="page">{{ page.title | split: " – " | first }}</span></li>
   </ol>
 </nav>
 {{ content }}
 <nav class="site-pager" aria-label="Weitere Spiele">
-{% if i > 0 %}<a class="sb-pager" href="{{ spiele[vor].url | relative_url }}"><span class="sb-pager__label">Vorheriges Spiel</span><span class="sb-pager__title">{{ spiele[vor].title | split: " – " | first }}</span></a>{% endif %}
-{% if nach < spiele.size %}<a class="sb-pager sb-pager--next" href="{{ spiele[nach].url | relative_url }}"><span class="sb-pager__label">Nächstes Spiel</span><span class="sb-pager__title">{{ spiele[nach].title | split: " – " | first }}</span></a>{% endif %}
+{% if i > 0 %}<a class="sb-pager" href="{{ spiele[vor].url | relative_url }}"><span class="sb-pager__label">Vorheriges Spiel</span><svg class="sb-icon" aria-hidden="true" focusable="false"><use href="#arrow-left"/></svg><span class="sb-pager__title">{{ spiele[vor].title | split: " – " | first }}</span></a>{% endif %}
+{% if nach < spiele.size %}<a class="sb-pager sb-pager--next" href="{{ spiele[nach].url | relative_url }}"><span class="sb-pager__label">Nächstes Spiel</span><svg class="sb-icon" aria-hidden="true" focusable="false"><use href="#arrow-right"/></svg><span class="sb-pager__title">{{ spiele[nach].title | split: " – " | first }}</span></a>{% endif %}
 </nav>

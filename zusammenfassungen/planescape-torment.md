@@ -98,9 +98,9 @@ Alle drei beenden die Unsterblichkeit. Danach erwacht der Namenlose auf dem Schl
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Planescape:_Torment
-2. https://de.wikipedia.org/wiki/Planescape:_Torment
-3. https://torment.fandom.com/wiki/Fortress_of_Regrets
-4. https://torment.fandom.com/wiki/The_Nameless_One
-5. https://torment.fandom.com/wiki/Planescape:_Torment_storyline (weitgehend von der englischen Wikipedia übernommen, daher nicht als unabhängig gezählt)
-6. https://classic.rpgfan.com/news/1999/809.html (Pressemitteilung von Black Isle vom 10. Dezember 1999)
+1. <https://en.wikipedia.org/wiki/Planescape:_Torment>
+2. <https://de.wikipedia.org/wiki/Planescape:_Torment>
+3. <https://torment.fandom.com/wiki/Fortress_of_Regrets>
+4. <https://torment.fandom.com/wiki/The_Nameless_One>
+5. <https://torment.fandom.com/wiki/Planescape:_Torment_storyline> (weitgehend von der englischen Wikipedia übernommen, daher nicht als unabhängig gezählt)
+6. <https://classic.rpgfan.com/news/1999/809.html> (Pressemitteilung von Black Isle vom 10. Dezember 1999)

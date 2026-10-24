@@ -95,8 +95,8 @@ Ein zweites, zusätzliches Ende hat „Soul of Rebirth“ (laut deutschem Fandom
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_II
-2. https://de.wikipedia.org/wiki/Final_Fantasy_II
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_II
-4. https://finalfantasy.fandom.com/de/wiki/Renaissance
-5. https://finalfantasy.fandom.com/de/wiki/Paul
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_II>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_II>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_II>
+4. <https://finalfantasy.fandom.com/de/wiki/Renaissance>
+5. <https://finalfantasy.fandom.com/de/wiki/Paul>

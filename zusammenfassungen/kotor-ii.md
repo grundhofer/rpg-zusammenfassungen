@@ -84,9 +84,9 @@ Kreias Vision vor ihrem Tod nennt Schicksale der Gefährten, Welten, Mandalorian
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords
-2. https://starwars.fandom.com/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords
-3. https://starwars.fandom.com/wiki/Atris
-4. https://starwars.fandom.com/wiki/Kreia
-5. https://starwars.fandom.com/wiki/Star_Wars:_Knights_of_the_Old_Republic
-6. https://starwars.fandom.com/wiki/HK_Manufacturing_Plant
+1. <https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords>
+2. <https://starwars.fandom.com/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords>
+3. <https://starwars.fandom.com/wiki/Atris>
+4. <https://starwars.fandom.com/wiki/Kreia>
+5. <https://starwars.fandom.com/wiki/Star_Wars:_Knights_of_the_Old_Republic>
+6. <https://starwars.fandom.com/wiki/HK_Manufacturing_Plant>

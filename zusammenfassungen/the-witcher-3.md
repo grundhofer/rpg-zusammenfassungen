@@ -86,10 +86,10 @@ Entscheidend ist laut Witcher-Fandom-Wiki eine Punktwertung aus Gesprächen mit 
 
 ## Quellen
 
-1. https://en.wikipedia.org/w/index.php?title=The_Witcher_3:_Wild_Hunt&action=raw
-2. https://de.wikipedia.org/w/index.php?title=The_Witcher_3:_Wild_Hunt&action=raw
-3. https://en.wikipedia.org/w/index.php?title=The_Witcher_3:_Wild_Hunt_%E2%80%93_Hearts_of_Stone&action=raw
-4. https://en.wikipedia.org/w/index.php?title=The_Witcher_3:_Wild_Hunt_%E2%80%93_Blood_and_Wine&action=raw
-5. https://witcher.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Hearts_of_Stone
-6. https://witcher.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Blood_and_Wine
-7. https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_(quest)
+1. <https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt>
+2. <https://de.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt>
+3. <https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Hearts_of_Stone>
+4. <https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt_%E2%80%93_Blood_and_Wine>
+5. <https://witcher.fandom.com/wiki/Hearts_of_Stone>
+6. <https://witcher.fandom.com/wiki/Blood_and_Wine>
+7. <https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_(quest)>

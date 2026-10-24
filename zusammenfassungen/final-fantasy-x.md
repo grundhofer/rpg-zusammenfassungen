@@ -95,8 +95,8 @@ Die Quellen beschreiben nur dieses eine Ende. Sin und Yu-Yevon sind besiegt, der
 
 ## Quellen
 
-1. https://en.wikipedia.org/w/index.php?title=Final_Fantasy_X&action=raw (Hauptquelle, Handlung, Setting, Veröffentlichung)
-2. https://de.wikipedia.org/w/index.php?title=Final_Fantasy_X&action=raw (deutsche Namen, Handlung, Charaktere)
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_X (Fan-Wiki, Story, Themen, Figuren)
-4. https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_X_and_X-2 (Yu Yevon als Herrscher Zanarkands und Schöpfer Sins)
-5. https://finalfantasy.fandom.com/wiki/Yu_Yevon (Yu Yevon als Anführer Zanarkands und Schöpfer Sins)
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_X> (Hauptquelle, Handlung, Setting, Veröffentlichung)
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_X> (deutsche Namen, Handlung, Charaktere)
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_X> (Fan-Wiki, Story, Themen, Figuren)
+4. <https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_X_and_X-2> (Yu Yevon als Herrscher Zanarkands und Schöpfer Sins)
+5. <https://finalfantasy.fandom.com/wiki/Yu_Yevon> (Yu Yevon als Anführer Zanarkands und Schöpfer Sins)

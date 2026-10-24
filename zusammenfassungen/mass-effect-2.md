@@ -91,12 +91,12 @@ Mögliche Ergebnisse: alle überleben, einzelne Teammitglieder sterben, oder gar
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Mass_Effect_2
-2. https://de.wikipedia.org/wiki/Mass_Effect_2
-3. https://masseffect.fandom.com/wiki/Mass_Effect_2
-4. https://masseffect.fandom.com/wiki/Stop_the_Collectors
-5. https://masseffect.fandom.com/wiki/Collector_Base:_Infiltration
-6. https://masseffect.fandom.com/wiki/Collector_Base:_The_Long_Walk
-7. https://masseffect.fandom.com/wiki/Collector_Base:_Final_Battle
-8. https://masseffect.fandom.com/wiki/Normandy_SR-2
-9. https://masseffect.fandom.com/wiki/Illusive_Man
+1. <https://en.wikipedia.org/wiki/Mass_Effect_2>
+2. <https://de.wikipedia.org/wiki/Mass_Effect_2>
+3. <https://masseffect.fandom.com/wiki/Mass_Effect_2>
+4. <https://masseffect.fandom.com/wiki/Stop_the_Collectors>
+5. <https://masseffect.fandom.com/wiki/Collector_Base:_Infiltration>
+6. <https://masseffect.fandom.com/wiki/Collector_Base:_The_Long_Walk>
+7. <https://masseffect.fandom.com/wiki/Collector_Base:_Final_Battle>
+8. <https://masseffect.fandom.com/wiki/Normandy_SR-2>
+9. <https://masseffect.fandom.com/wiki/Illusive_Man>

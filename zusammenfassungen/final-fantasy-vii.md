@@ -67,7 +67,7 @@ Das Spiel hat ein Ende. Meteor wird durch Heilig und die Kraft des Lebensstroms 
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Final_Fantasy_VII
-2. https://de.wikipedia.org/wiki/Final_Fantasy_VII
-3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII
-4. https://finalfantasy.fandom.com/wiki/Multiple_endings
+1. <https://en.wikipedia.org/wiki/Final_Fantasy_VII>
+2. <https://de.wikipedia.org/wiki/Final_Fantasy_VII>
+3. <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII>
+4. <https://finalfantasy.fandom.com/wiki/Multiple_endings>

@@ -79,12 +79,12 @@ Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren n
 
 ## Quellen
 
-1. https://en.wikipedia.org/w/index.php?title=Xenogears&action=raw
-2. https://de.wikipedia.org/w/index.php?title=Xenogears&action=raw
-3. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Id
-4. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Krelian
-5. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Citan_Uzuki
-6. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Miang_Hawwa
-7. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Abel
-8. https://en.wikipedia.org/wiki/Characters_of_Xenogears
-9. https://kotaku.com/the-real-story-behind-xenogears-unfinished-disc-2-1796151112
+1. <https://en.wikipedia.org/wiki/Xenogears>
+2. <https://de.wikipedia.org/wiki/Xenogears>
+3. <https://xenogears.fandom.com/wiki/Id>
+4. <https://xenogears.fandom.com/wiki/Krelian>
+5. <https://xenogears.fandom.com/wiki/Citan_Uzuki>
+6. <https://xenogears.fandom.com/wiki/Miang_Hawwa>
+7. <https://xenogears.fandom.com/wiki/Abel>
+8. <https://en.wikipedia.org/wiki/Characters_of_Xenogears>
+9. <https://kotaku.com/the-real-story-behind-xenogears-unfinished-disc-2-1796151112>

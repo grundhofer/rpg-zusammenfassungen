@@ -93,10 +93,10 @@ Die Game-Overs erscheinen als Zeitungsmeldungen. Auslöser sind unter anderem le
 
 ## Quellen
 
-1. https://en.wikipedia.org/w/index.php?title=Disco_Elysium&action=raw
-2. https://de.wikipedia.org/w/index.php?title=Disco_Elysium&action=raw
-3. https://discoelysium.fandom.com/wiki/Endings
-4. https://discoelysium.fandom.com/wiki/Disco_Elysium
-5. https://discoelysium.fandom.com/wiki/Revachol
-6. https://discoelysium.fandom.com/wiki/Antecentennial_Revolution
-7. https://discoelysium.fandom.com/wiki/Ptolemaios_Pryce
+1. <https://en.wikipedia.org/wiki/Disco_Elysium>
+2. <https://de.wikipedia.org/wiki/Disco_Elysium>
+3. <https://discoelysium.fandom.com/wiki/Endings>
+4. <https://discoelysium.fandom.com/wiki/Disco_Elysium>
+5. <https://discoelysium.fandom.com/wiki/Revachol>
+6. <https://discoelysium.fandom.com/wiki/Antecentennial_Revolution>
+7. <https://discoelysium.fandom.com/wiki/Ptolemaios_Pryce>

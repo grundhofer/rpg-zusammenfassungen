@@ -67,13 +67,13 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 
 ## Quellen
 
-1. https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
-2. https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal
-3. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
-4. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal
-5. https://de.wikipedia.org/wiki/Baldur%E2%80%99s_Gate_II:_Schatten_von_Amn
-6. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II_Chapter_7
-7. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_2:_Throne_of_Bhaal_Epilogues
-8. https://forgottenrealms.fandom.com/wiki/Jon_Irenicus
-9. https://www.gamestar.de/artikel/baldurs-gate-2-schatten-von-amn-das-rollenspiel-epos-ist-noch-besser-als-baldurs-gate-1,1330016.html
-10. https://www.gameswelt.de/baldurs-gate-ii-schatten-von-amn/test/baldurs-gate-2-schatten-von-amn-2875
+1. <https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn>
+2. <https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal>
+3. <https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn>
+4. <https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal>
+5. <https://de.wikipedia.org/wiki/Baldur%E2%80%99s_Gate_II:_Schatten_von_Amn>
+6. <https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II_Chapter_7>
+7. <https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_2:_Throne_of_Bhaal_Epilogues>
+8. <https://forgottenrealms.fandom.com/wiki/Jon_Irenicus>
+9. <https://www.gamestar.de/artikel/baldurs-gate-2-schatten-von-amn-das-rollenspiel-epos-ist-noch-besser-als-baldurs-gate-1,1330016.html>
+10. <https://www.gameswelt.de/baldurs-gate-ii-schatten-von-amn/test/baldurs-gate-2-schatten-von-amn-2875>
