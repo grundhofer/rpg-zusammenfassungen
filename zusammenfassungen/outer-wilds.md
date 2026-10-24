@@ -2,12 +2,12 @@
 
 ## Steckbrief
 
-- **Erscheinungsjahr:** 2019. Erstveröffentlichung laut englischer Wikipedia am 28. Mai 2019, laut deutscher Wikipedia am 30. Mai 2019 [unsicher: die beiden Wikipedia-Fassungen nennen unterschiedliche Tage]. Die Erweiterung *Echoes of the Eye* erschien am 28. September 2021.
+- **Erscheinungsjahr:** 2019. Erstveröffentlichung am 30. Mai 2019 (Xbox One und PC über den Epic Games Store); die englische Wikipedia nennt den 28. Mai, doch die dort angegebene Entwicklerseite verzeichnet nur „Mai 2019“, während die Ankündigung vom 20. Mai 2019 den 30. Mai nennt. Die Erweiterung *Echoes of the Eye* erschien am 28. September 2021.
 - **Entwickler / Publisher:** Mobius Digital; Publisher ist Annapurna Interactive. Regie führte Alex Beachum, das Spiel begann Ende 2012 als dessen Masterarbeit an der USC. Das Drehbuch schrieb Kelsey Beachum, die Musik komponierte Andrew Prahlow.
 - **Plattformen (Erstveröffentlichung):** Windows und Xbox One. Später PlayStation 4 (Oktober 2019), PlayStation 5 und Xbox Series X/S (2022) sowie Nintendo Switch (Dezember 2023).
 - **Welt:** Ein kleines Planetensystem um eine Sonne, deren Planeten nur wenige Kilometer auseinanderliegen und sich während der Spielzeit sichtbar verändern. Bewohnt wird es von den vieräugigen Hearthians; die ausgestorbenen dreiäugigen Nomai haben überall Ruinen hinterlassen. Das System steckt in einer 22-Minuten-Zeitschleife.
 - **Erzählperspektive / Protagonist:** Egoperspektive. Gespielt wird ein namenloser Hearthian-Astronaut („Hatchling“), der zu seinem ersten Raumflug aufbricht. Die Handlung wird nicht erzählt, sondern über Nomai-Schriften und Gespräche selbst zusammengesetzt.
-- **Namen:** Eine deutsche Lokalisierung der Eigennamen konnte in den ausgewerteten Quellen nicht belegt werden. Die deutsche Wikipedia verwendet englische Namen, nur das „Projekt Zwillingsasche“ (Ash Twin Project) erscheint dort übersetzt. Dieser Text nutzt daher das Original [unsicher: deutsche Spielnamen nicht überprüft].
+- **Namen:** Das Spiel ist ins Deutsche lokalisiert: GameStar nennt das Volk der Spielfigur „Kamina“ und seinen Heimatplaneten „Holzkamin“. Eine vollständige Liste der deutschen Eigennamen ließ sich nicht finden; die deutsche Wikipedia verwendet überwiegend englische Namen und übersetzt nur das „Projekt Zwillingsasche“ (Ash Twin Project). Dieser Text nutzt daher das Original [unsicher: außer „Kamina“ und „Holzkamin“ sind die deutschen Spielnamen in keiner gefundenen Quelle aufgeführt].
 
 ## Worum es geht (spoilerfrei)
 
@@ -120,3 +120,6 @@ Die Endungen hängen also davon ab, ob man den Kern entnimmt, wohin man damit f�
 17. https://outerwilds.fandom.com/wiki/Hornfels
 18. https://outerwilds.fandom.com/wiki/Slate
 19. https://outerwilds.fandom.com/wiki/Outer_Wilds_Ventures
+20. https://www.engadget.com/2019-05-20-outer-wilds-release-date-trailer-xbox-one-epic-games-store.html
+21. https://www.mobiusdigitalgames.com/press.html
+22. https://www.gamestar.de/artikel/outer-wilds-test-pc-review,3344764.html

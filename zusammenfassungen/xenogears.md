@@ -63,7 +63,7 @@ Fei will Deus zerstören, um das Wave Existence und Elly zu befreien. In Merkaba
 
 ## Enden
 
-Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren nach dem Kampf gegen Urobolus mit dem Xenogears auf ihren Planeten zurück, Krelian steigt auf. [unsicher: Weder Wikipedia noch das Fandom-Wiki noch das Kotaku-Interview erwähnen alternative Enden oder Entscheidungen, die das Ende verändern; eine ausdrückliche Aussage, dass es nur ein Ende gibt, fand sich nur in einem Forenbeitrag und gilt daher nicht als belegt.]
+Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren nach dem Kampf gegen Urobolus mit dem Xenogears auf ihren Planeten zurück, Krelian steigt auf. Alternative Enden oder Entscheidungen, die das Ende verändern, erwähnen weder Wikipedia noch das Fan-Wiki noch das Kotaku-Interview.
 
 ## Für eigene Spiele
 

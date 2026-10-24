@@ -6,7 +6,7 @@
 - **Entwickler / Publisher:** Square. Geschichte überwiegend von Masato Kato, Regie unter anderem Takashi Tokita, Yoshinori Kitase und Akihiko Matsui; Figurendesign von Akira Toriyama, Musik von Yasunori Mitsuda mit Nobuo Uematsu. Die Ideengeber Hironobu Sakaguchi, Yuji Horii und Toriyama nannte Square das „Dream Team“.
 - **Plattformen (Erstveröffentlichung):** Super Nintendo (SNES). Später PlayStation (Japan 1999, Nordamerika 2001 in *Final Fantasy Chronicles*), Nintendo DS (2008/2009), Mobilgeräte (iOS/Android 2011/2012) und Windows (2018).
 - **Welt:** Eine erdähnliche Welt, die in verschiedenen Epochen besucht wird: Urzeit (65.000.000 v. Chr.), das magische Altertum (12.000 v. Chr.), das Mittelalter (600 n. Chr.), die Gegenwart (1000 n. Chr.) und eine zerstörte Zukunft (2300 n. Chr.). Dazwischen liegt das „Ende der Zeit“ als Knotenpunkt.
-- **Erzählperspektive / Protagonist:** Chrono (im englischen Original *Crono*) ist ein stummer Held; die deutsche Wikipedia schreibt „Chrono“. Gespielt wird eine Gruppe aus sechs Figuren plus einer optionalen siebten. Die Namen folgen der deutschen Wikipedia, sofern dort belegt [unsicher: eine vollständige deutsche Spielfassung mit Textquelle lag nicht vor, die deutsche Wikipedia mischt Namensformen wie Guardia/Gardia].
+- **Erzählperspektive / Protagonist:** Chrono (im englischen Original *Crono*) ist ein stummer Held; die deutsche Wikipedia schreibt „Chrono“. Gespielt wird eine Gruppe aus sechs Figuren plus einer optionalen siebten. Die Namen folgen der deutschen Wikipedia, sofern dort belegt [unsicher: Deutschen Spieltext gibt es laut deutscher Wikipedia erst in den Fassungen für iOS und Steam, die DS-Fassung erschien in Europa nur auf Englisch und Französisch; die Namen der deutschen Fassung ließen sich nicht prüfen, und die deutsche Wikipedia mischt selbst Formen wie Guardia/Gardia].
 
 ## Worum es geht (spoilerfrei)
 
@@ -34,7 +34,7 @@ Die Gruppe hält zunächst den mächtigen Magier Magus für den Verantwortlichen
 
 Zeal weckt versehentlich Lavos auf. Der Prophet gibt sich als Magus zu erkennen und versucht vergeblich, das Wesen zu töten. Lavos besiegt Magus und tötet Chrono. Die Prinzessin Schala bringt die übrigen Figuren in Sicherheit, danach vernichtet Lavos das Königreich, und die herabstürzenden Landmassen lösen Fluten aus, die den größten Teil des Landes überschwemmen.
 
-Magus berichtet, dass er früher Prinz Janus von Zeal und Schalas Bruder war. Der Ausbruch von Lavos hat ihn in der Zeit verstreut, er strandete als Kind im Jahr 600 und nahm den Namen Magus an. Er sammelte Gefolgsleute und wollte Lavos selbst beschwören, um ihn zu töten. Die Gruppe kann ihn nun töten, ihn im Duell mit Frog fallen sehen oder ihn schonen, sodass er sich ihr anschließt. Der zerstörte Ozeanpalast steigt als „Black Omen“ [unsicher: eine deutsche Bezeichnung ist nicht belegt, ebenso wenig für Ozeanpalast, Sonnenstein und Regenbogenmuschel, die hier nur Übersetzungen der englischen Namen sind], die schwebende Festung der Königin, in die Luft. Gaspar übergibt der Gruppe den „Chrono Trigger“, ein Gerät, das Chrono im Augenblick des Todes durch eine identische Doppelgängerfigur ersetzen kann. Ob man es benutzt, bleibt freiwillig.
+Magus berichtet, dass er früher Prinz Janus von Zeal und Schalas Bruder war. Der Ausbruch von Lavos hat ihn in der Zeit verstreut, er strandete als Kind im Jahr 600 und nahm den Namen Magus an. Er sammelte Gefolgsleute und wollte Lavos selbst beschwören, um ihn zu töten. Die Gruppe kann ihn nun töten, ihn im Duell mit Frog fallen sehen oder ihn schonen, sodass er sich ihr anschließt. Der zerstörte Ozeanpalast steigt als „Black Omen“ [unsicher: Weder die deutsche Wikipedia noch eine andere gefundene deutschsprachige Quelle nennt eine deutsche Bezeichnung für „Black Omen“, Ozeanpalast, Sonnenstein oder Regenbogenmuschel; die deutschen Begriffe hier sind Übersetzungen der englischen Namen], die schwebende Festung der Königin, in die Luft. Gaspar übergibt der Gruppe den „Chrono Trigger“, ein Gerät, das Chrono im Augenblick des Todes durch eine identische Doppelgängerfigur ersetzen kann. Ob man es benutzt, bleibt freiwillig.
 
 ### Nebenreisen und das Black Omen
 
@@ -48,12 +48,12 @@ Dabei zeigt sich, was Lavos wirklich vorhat. Er lenkt seine eigene Entwicklung, 
 
 - **Chrono** – stummer Schwertkämpfer aus dem Jahr 1000; Anführer, der sich furchtlos in die Rettung stürzt. Er stirbt im Kampf gegen Lavos und kann durch den Chrono Trigger zurückgeholt werden.
 - **Marle (Marledia, im Original Nadia)** – Prinzessin von Guardia, die dem Schlossleben entfliehen will. Sie lernt, dass ihre Familie die Geschichte Guardias über Jahrhunderte prägt.
-- **Lucca** – Erfinderin und Chronos Jugendfreundin. Der Unfall ihrer Mutter treibt sie in die Technik und später zum Wunsch, Vergangenes zu ändern [unsicher: die Quellen weichen ab, ob die Mutter ihre Beine verlor (de.wikipedia) oder allgemein gelähmt wurde (en.wikipedia)].
+- **Lucca** – Erfinderin und Chronos Jugendfreundin. Der Unfall ihrer Mutter treibt sie in die Technik und später zum Wunsch, Vergangenes zu ändern (laut deutscher Wikipedia verliert die Mutter bei einer Maschine des Vaters ihre Beine, das Fan-Wiki nennt sie gehunfähig).
 - **Robo (R-66Y, Prometheus)** – Roboter aus 2300, der sich gegen die menschenfeindlichen Maschinen stellt und sich der Gruppe aus Dankbarkeit anschließt.
 - **Frog (Glenn)** – Ritter aus 600, von Magus in einen Frosch verwandelt. Er will Cyrus rächen und lernt, mit Rache und Schuld anders umzugehen.
 - **Ayla** – Anführerin der Menschen in der Urzeit, körperlich unübertroffen; sie bekämpft die Reptiten.
 - **Magus (Janus)** – gefürchteter Magier in 600, in Wahrheit Prinz von Zeal. Er will Lavos töten, nicht rufen, und sucht seine Schwester Schala.
-- **Gaspar** – Weiser am Ende der Zeit; Mentor, der den Chrono Trigger gibt.
+- **Gaspar** – Weiser am Ende der Zeit; Mentor, der den Chrono Trigger gibt. Seine Mitweisen sind der Weise des Lebens (deutsche Wikipedia: „Bosh“, Fan-Wiki: „Melchior“) und der Weise der Vernunft, Belthasar.
 - **Königin Zeal und Schala** – Zeals Herrscherin, die Lavos Macht verdankt, und ihre Tochter, die die Gruppe rettet.
 - **Lavos** – außerirdisches Wesen, das das Erbgut der Erde frisst und als Gegenspieler hinter allen Wendungen steht.
 
@@ -110,5 +110,5 @@ Der Aufbau folgt einem Muster aus Zufallsstart, Vertiefung und Gegenschlag. Der 
 2. https://de.wikipedia.org/wiki/Chrono_Trigger
 3. https://chrono.fandom.com/wiki/Chrono_Trigger
 4. https://chrono.fandom.com/wiki/List_of_Chrono_Trigger_endings
-
-[unsicher: Die deutsche Wikipedia nennt Gaspars Mitweise Bosh und Belthasar, das Fan-Wiki Melchior und Belthasar; die Namen sind in dieser Zusammenfassung ausgelassen.]
+5. https://chrono.fandom.com/wiki/Lucca
+6. https://chrono.fandom.com/wiki/Melchior

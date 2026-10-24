@@ -2,7 +2,7 @@
 
 ## Steckbrief
 
-- **Erscheinungsjahr:** 1999 (Nordamerika, 10. Dezember laut der Infobox der englischen Wikipedia; Großbritannien 7. Januar 2000). Die deutsche Wikipedia nennt für Deutschland den 3. Januar 2000 [unsicher: die englische Wikipedia nennt im Fließtext der Quellenangabe den 12. Dezember 1999, die Infobox den 10. Dezember].
+- **Erscheinungsjahr:** 1999 (Nordamerika, 10. Dezember laut der Infobox der englischen Wikipedia; Großbritannien 7. Januar 2000). Die deutsche Wikipedia nennt für Deutschland den 3. Januar 2000. Der 12. Dezember 1999, den die deutsche Wikipedia und das Fan-Wiki für die USA angeben, steht im Widerspruch zur damaligen Pressemitteilung von Black Isle: Sie ist auf den 10. Dezember 1999 datiert und meldet das Spiel als im Handel erhältlich.
 - **Entwickler / Publisher:** Black Isle Studios, veröffentlicht von Interplay Entertainment (in Japan von Sega). Lead Designer und Autor: Chris Avellone; Musik: Mark Morgan.
 - **Plattformen (Erstveröffentlichung):** Windows. Eine Überarbeitung von Beamdog (Enhanced Edition) erschien 2017 für Windows, Linux, macOS, Android und iOS, 2019 für Switch, PlayStation 4 und Xbox One.
 - **Setting:** Planescape, eine Kampagnenwelt von *Dungeons & Dragons*: ein Multiversum aus vielen Existenzebenen, die über Portale verbunden sind. Ein großer Teil des Spiels spielt in Sigil, der „Stadt der Tore“ im Zentrum dieses Multiversums, die von der Dame der Schmerzen überwacht wird. Später führt die Reise auch in andere Ebenen wie Baator und Carceri.
@@ -64,7 +64,7 @@ Der Ausgang der Haupthandlung ist laut deutscher Wikipedia im Kern vorgegeben un
 - **Selbstmord:** Der Namenlose tötet sich mit der Klinge des Unsterblichen oder löst sich bei sehr hoher Weisheit durch Willenskraft auf.
 - **Kampf:** Der Transzendente wird bekämpft und getötet; vorher kann ein toter Gefährte wiederbelebt werden, der mitkämpft.
 
-Alle drei beenden die Unsterblichkeit. Danach erwacht der Namenlose auf dem Schlachtfeld in den Unteren Ebenen und stellt sich dem Blutkrieg. Wer sich der praktischen Inkarnation unterwirft, erreicht ein Game Over (laut Fan-Wiki). Die deutsche Wikipedia erwähnt außerdem weitere Möglichkeiten, das Spiel zu beenden, die nicht zur gestellten Aufgabe führen [unsicher: die Quelle nennt sie nicht näher, daher bleibt offen, welche gemeint sind].
+Alle drei beenden die Unsterblichkeit. Danach erwacht der Namenlose auf dem Schlachtfeld in den Unteren Ebenen und stellt sich dem Blutkrieg. Wer sich der praktischen Inkarnation unterwirft, erreicht ein Game Over (laut Fan-Wiki). Die deutsche Wikipedia erwähnt außerdem weitere Möglichkeiten, das Spiel zu beenden, die nicht zur gestellten Aufgabe führen [unsicher: welche das sind, nennt keine der Quellen; das Fan-Wiki beschreibt nur das Game Over bei der Unterwerfung unter die praktische Inkarnation].
 
 ## Für eigene Spiele
 
@@ -103,3 +103,4 @@ Alle drei beenden die Unsterblichkeit. Danach erwacht der Namenlose auf dem Schl
 3. https://torment.fandom.com/wiki/Fortress_of_Regrets
 4. https://torment.fandom.com/wiki/The_Nameless_One
 5. https://torment.fandom.com/wiki/Planescape:_Torment_storyline (weitgehend von der englischen Wikipedia übernommen, daher nicht als unabhängig gezählt)
+6. https://classic.rpgfan.com/news/1999/809.html (Pressemitteilung von Black Isle vom 10. Dezember 1999)

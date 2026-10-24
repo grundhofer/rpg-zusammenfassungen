@@ -26,7 +26,7 @@ Ihr erster Einsatz führt Squall, Xell und Selphie nach Timber, das Galbadia sei
 
 ### Das Attentat und das Gefängnis
 
-Squalls Gruppe weicht zum Galbadia-Garden aus. Dort soll sie mit Unterstützung von Rinoas Vater, General Caraway [unsicher: de.wikipedia nennt ihn Oberst, das Fandom-Wiki General], und dem Scharfschützen Irvine Kinneas Edea bei ihrer Einführungsparade in Deling City töten. Rinoa wird bei einem Alleingang von Edea niedergeschlagen; Edea tötet Präsident Deling. Irvines Schuss prallt an einer Magiebarriere ab. Squall steht Edea gegenüber und sieht Cifer an ihrer Seite, der sich zu ihrem „Hexenritter“ erklärt hat. Edea durchbohrt Squalls Schulter mit einem Eisspeer. Im Traum erlebt Squall Laguna in Winhill, wo dieser bei Raine und deren Adoptivtochter Ellione wohnt. Squall erwacht im Bezirksgefängnis D, wird von Cifer gefoltert und von einem Moomba befreit, der ihn „Laguna“ nennt.
+Squalls Gruppe weicht zum Galbadia-Garden aus. Dort soll sie mit Unterstützung von Rinoas Vater, General Caraway (in der englischen Fassung General, in der japanischen und der deutschen Fassung Oberst), und dem Scharfschützen Irvine Kinneas Edea bei ihrer Einführungsparade in Deling City töten. Rinoa wird bei einem Alleingang von Edea niedergeschlagen; Edea tötet Präsident Deling. Irvines Schuss prallt an einer Magiebarriere ab. Squall steht Edea gegenüber und sieht Cifer an ihrer Seite, der sich zu ihrem „Hexenritter“ erklärt hat. Edea durchbohrt Squalls Schulter mit einem Eisspeer. Im Traum erlebt Squall Laguna in Winhill, wo dieser bei Raine und deren Adoptivtochter Ellione wohnt. Squall erwacht im Bezirksgefängnis D, wird von Cifer gefoltert und von einem Moomba befreit, der ihn „Laguna“ nennt.
 
 ### Die Raketen und der fahrende Garden
 
@@ -66,7 +66,7 @@ Mit Artemisias Tod zerfällt ihr Werk. Squall und die sterbende Artemisia reisen
 
 ## Enden
 
-Die Quellen beschreiben ein einziges Ende ohne Verzweigungen: Artemisia wird besiegt, Squall findet mit Rinoas Hilfe zurück in die Gegenwart, Cifer lebt mit Fujin und Raijin in Balamb, Laguna besucht Raines Grab, und die Gruppe feiert im Balamb-Garden, wo Squall und Rinoa sich küssen. Abhängigkeiten des Endes von Spielerentscheidungen werden nicht genannt [unsicher: Quellen erwähnen keine alternativen Enden; ob es nebenbei optionale Szenen gibt, ist daraus nicht zu entscheiden]. Squalls Verhältnis zu Laguna wird nur angedeutet (Kiros und Ward kennen seine Herkunft), eine ausdrückliche Verwandtschaft nennen die Quellen nicht [unsicher: Vaterschaft nicht belegt].
+Die Quellen beschreiben ein einziges Ende ohne Verzweigungen: Artemisia wird besiegt, Squall findet mit Rinoas Hilfe zurück in die Gegenwart, Cifer lebt mit Fujin und Raijin in Balamb, Laguna besucht Raines Grab, und die Gruppe feiert im Balamb-Garden, wo Squall und Rinoa sich küssen. Die Quellen erwähnen keine alternativen Enden; sie nennen optionale Szenen in Städten und optionale Orte wie das gegenwärtige Winhill, aber keinen Einfluss davon auf das Ende. Dass Laguna Squalls Vater ist, wird im Spiel nicht ausgesprochen, aber stark angedeutet (Kiros sagt, Squall komme nach seiner Mutter); das Fandom-Wiki nennt die Vaterschaft durch das Ultimania-Buch zum 20. Jubiläum bestätigt.
 
 ## Für eigene Spiele
 
@@ -87,3 +87,5 @@ Die Quellen beschreiben ein einziges Ende ohne Verzweigungen: Artemisia wird bes
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII_story
 4. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII
 5. https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VIII
+6. https://finalfantasy.fandom.com/wiki/Fury_Caraway
+7. https://finalfantasy.fandom.com/wiki/Laguna_Loire

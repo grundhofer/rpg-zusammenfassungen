@@ -6,7 +6,7 @@
 - **Entwickler / Publisher:** Square (heute Square Enix); in Japan von Square selbst, international von Sony Computer Entertainment veröffentlicht; Windows-Fassung bei Eidos Interactive. Regie: Yoshinori Kitase, Produzent: Hironobu Sakaguchi, Drehbuch: Kitase und Kazushige Nojima, Musik: Nobuo Uematsu, Figurendesign: Tetsuya Nomura.
 - **Plattformen (Erstveröffentlichung):** PlayStation. Später Windows, iOS, PlayStation 4, Android, Nintendo Switch und Xbox One. Gemeint ist hier ausschließlich das Original; das Remake (2020), die Fortsetzung Rebirth (2024) und die Compilation-Titel erzählen Teile neu bzw. weiter und bleiben außen vor.
 - **Setting / Welt:** Ein Planet (im Spiel nur „Planet“, später „Gaia“ genannt) in einer industriellen Science-Fiction-Welt mit Magie in Form von Materia. Der Megakonzern Shinra mit Sitz in der Stadt Midgar gewinnt aus dem Lebensstrom des Planeten, dem „Mako“, Energie.
-- **Erzählperspektive / Protagonist:** Protagonist ist der Söldner Cloud Strife; um ihn wächst eine Gruppe aus acht weiteren spielbaren Figuren. Die Handlung wird in der dritten Person als Gruppengeschichte erzählt [unsicher: die Quellen benennen die Erzählperspektive nicht ausdrücklich].
+- **Erzählperspektive / Protagonist:** Protagonist ist der Söldner Cloud Strife; um ihn wächst eine Gruppe aus acht weiteren spielbaren Figuren.
 
 ## Worum es geht (spoilerfrei)
 
@@ -51,7 +51,7 @@ Shinras Rakete mit der Huge Materia scheitert gegen Meteor; Cid erkennt, dass er
 
 ## Enden
 
-Das Spiel hat ein Ende. Meteor wird durch Heilig und die Kraft des Lebensstroms zerstört, Midgar fällt, und Shinras Macht zerfällt. Im Epilog sieht man Red XIII mit zwei Jungen über dem begrünten Midgar, 500 Jahre später. Was aus den Menschen wird, bleibt offen: Laut Fan-Wiki erscheint im Epilog nur Red XIII, und Kinderlachen ist zu hören. Die gelesenen Quellen nennen keine Varianten oder Bedingungen, die das Ende verändern [unsicher: ob es spielerabhängige Unterschiede gibt, geht aus den Quellen nicht hervor].
+Das Spiel hat ein Ende. Meteor wird durch Heilig und die Kraft des Lebensstroms zerstört, Midgar fällt, und Shinras Macht zerfällt. Im Epilog sieht man Red XIII mit zwei Jungen über dem begrünten Midgar, 500 Jahre später. Was aus den Menschen wird, bleibt offen: Laut Fan-Wiki erscheint im Epilog nur Red XIII, und Kinderlachen ist zu hören. Die Wikipedia-Artikel und das Fan-Wiki beschreiben nur diesen einen Epilog, und die Fan-Wiki-Liste von Spielen mit mehreren oder geheimen Enden führt Final Fantasy VII selbst nicht auf.
 
 ## Für eigene Spiele
 
@@ -70,3 +70,4 @@ Das Spiel hat ein Ende. Meteor wird durch Heilig und die Kraft des Lebensstroms 
 1. https://en.wikipedia.org/wiki/Final_Fantasy_VII
 2. https://de.wikipedia.org/wiki/Final_Fantasy_VII
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII
+4. https://finalfantasy.fandom.com/wiki/Multiple_endings

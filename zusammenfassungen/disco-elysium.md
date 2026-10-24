@@ -18,7 +18,7 @@ Gespielt wird weniger der Kriminalfall als der Weg zurück in die eigene Person.
 
 ### Vorgeschichte und Hintergrund
 
-Die Weltgeschichte, die das Spiel nach und nach offenlegt, ist die einer gescheiterten Revolution. Etwa fünfzig Jahre vor der Spielhandlung stürzte eine kommunistische Revolution die Monarchie von Revachol, der damals führenden Macht Elysiums. [unsicher: die englische Wikipedia nennt 49 Jahre vor dem Spiel, die deutsche 50 Jahre.] Die daraus entstandene Kommune hielt nur sechs Jahre. Dann stürzte sie eine Allianz kapitalistisch-moralistischer Staaten, die „Koalition“. Seitdem ist Revachol eine Sonderverwaltungszone unter Koalitionskontrolle. Eigenständig darf die Stadt kaum etwas regeln, nur die Polizeiarbeit liegt bei der Bürgermiliz Revachol, die aus einer freiwilligen Bürgerwehr zu einer halbprofessionellen Polizei geworden ist.
+Die Weltgeschichte, die das Spiel nach und nach offenlegt, ist die einer gescheiterten Revolution. Etwa fünfzig Jahre vor der Spielhandlung stürzte eine kommunistische Revolution die Monarchie von Revachol, der damals führenden Macht Elysiums (die englische Wikipedia nennt 49 Jahre, die deutsche Wikipedia und das Fan-Wiki 50; laut Fan-Wiki begann die Revolution im Jahr 02). Die daraus entstandene Kommune hielt nur sechs Jahre. Dann stürzte sie eine Allianz kapitalistisch-moralistischer Staaten, die „Koalition“. Seitdem ist Revachol eine Sonderverwaltungszone unter Koalitionskontrolle. Eigenständig darf die Stadt kaum etwas regeln, nur die Polizeiarbeit liegt bei der Bürgermiliz Revachol, die aus einer freiwilligen Bürgerwehr zu einer halbprofessionellen Polizei geworden ist.
 
 In diese Lage fällt Harrys persönliche Vorgeschichte. Was ihn so weit gebracht hat, setzt der Spieler nur stückweise zusammen: Er war ein angesehener Detektiv der BMR. Ein Ereignis vor einigen Jahren löste bei ihm eine Midlife-Crisis aus. In der Nacht, in der ihm der Fall des Gehängten zugeteilt wurde, brach er endgültig zusammen und begann eine drei Tage dauernde, selbstzerstörerische Sauftour durch Martinaise. Am Ende des Spiels bestätigt sein Kollege Jean Vicquemare, dass der Zusammenbruch darauf zurückgeht, dass ihn seine Verlobte vor Jahren verlassen hat.
 
@@ -48,7 +48,7 @@ Dann taucht aus dem Schilf die Insulindische Phasmide auf, ein insektenartiges F
 
 ### Abschlussbesprechung
 
-Zurück in Martinaise empfängt Harrys altes Team ihn und seinen Partner. Gemeinsam gehen sie durch, was Harry getan hat, ob er den Fall gelöst hat und wie er mit den Söldnern umging. Vicquemare erklärt dabei die Ursache für Harrys Zusammenbruch. Im besten Fall hoffen die Kollegen, dass es ihm bald besser geht, und laden ihn und Kim oder Cuno in eine Sondereinheit der BMR ein. Bei einer bestandenen Fertigkeitsprobe kann Harry außerdem ein Gespräch zwischen dem Revierleiter und einem Arzt belauschen, in dem es um eine kommende zweite Revolution in Revachol und Harrys Rolle darin geht. [unsicher: nur in der deutschen Wikipedia beschrieben, nicht in der englischen Fassung.]
+Zurück in Martinaise empfängt Harrys altes Team ihn und seinen Partner. Gemeinsam gehen sie durch, was Harry getan hat, ob er den Fall gelöst hat und wie er mit den Söldnern umging. Vicquemare erklärt dabei die Ursache für Harrys Zusammenbruch. Im besten Fall hoffen die Kollegen, dass es ihm bald besser geht, und laden ihn und Kim oder Cuno in eine Sondereinheit der BMR ein. Bei einer bestandenen Probe auf Esprit de Corps bekommt Harry außerdem ein Gespräch zwischen Revierleiter Ptolemaios Pryce und dem Arzt Nix Gottlieb zu hören, die eine Revolution planen und Harry als Mitstreiter auf ihre Liste setzen.
 
 ## Hauptfiguren
 
@@ -97,3 +97,6 @@ Die Game-Overs erscheinen als Zeitungsmeldungen. Auslöser sind unter anderem le
 2. https://de.wikipedia.org/w/index.php?title=Disco_Elysium&action=raw
 3. https://discoelysium.fandom.com/wiki/Endings
 4. https://discoelysium.fandom.com/wiki/Disco_Elysium
+5. https://discoelysium.fandom.com/wiki/Revachol
+6. https://discoelysium.fandom.com/wiki/Antecentennial_Revolution
+7. https://discoelysium.fandom.com/wiki/Ptolemaios_Pryce

@@ -38,7 +38,7 @@ Die Rückkehrer folgen auf das schwebende Land und kämpfen sich durch die kaise
 
 ### Welt des Ruins: Neubeginn und Wiederfinden
 
-Ein Jahr später erwacht Celes auf einer verlassenen Insel, wo Cid sich um sie gekümmert hat. Er baut ihr ein Floß und schickt sie los; ob er überlebt, hängt vom Spielverlauf ab [unsicher: die Quelle nennt keine Bedingung]. Kefka herrscht jetzt als Gott der Magie von einem Turm aus Trümmern, tötet mit dem Licht der Verurteilung jeden Widerstand, und Pflanzen und Tiere sterben. Celes findet Sabin in Tzen, dann Edgar, der sich als Gerad ausgibt, um unbehelligt in die versunkene Burg Figaro zu kommen. In Kohlingen führt Setzer sie zum Luftschiff *Falke*, das seiner verstorbenen Freundin Darill gehörte. Mit dem Falken sammelt Celes die übrigen Figuren ein: Terra kümmert sich in Mobliz um Waisenkinder und entdeckt im Kampf gegen ein Monster ihre Liebe zu ihnen. Cyan lebt auf dem Berg bei Zozo und schreibt einer jungen Frau, die ihn für ihren toten Freund hält. Strago ist Kefkas Sekte beigetreten, weil er Relm für tot hält, die in Jidoor als Malerin arbeitet. Shadow kämpft in der Arena am Drachenhals. Lock sucht in der Phönix-Grotte nach einem Weg, seine tote Geliebte Rachel zurückzuholen, und versöhnt sich dort mit seiner Schuld. Mog, Umaro, Gau und Gogo sind optional ebenfalls zu finden.
+Ein Jahr später erwacht Celes auf einer verlassenen Insel, wo Cid sich um sie gekümmert hat. Celes fängt Fische für den kranken Cid; ob er überlebt, hängt davon ab, ob der Spieler ihn genug gesunde Fische essen lässt. Er zeigt ihr das Floß, das er gebaut hat, und schickt sie los; stirbt er, findet sie stattdessen seinen Abschiedsbrief und das Floß selbst. Kefka herrscht jetzt als Gott der Magie von einem Turm aus Trümmern, tötet mit dem Licht der Verurteilung jeden Widerstand, und Pflanzen und Tiere sterben. Celes findet Sabin in Tzen, dann Edgar, der sich als Gerad ausgibt, um unbehelligt in die versunkene Burg Figaro zu kommen. In Kohlingen führt Setzer sie zum Luftschiff *Falke*, das seiner verstorbenen Freundin Darill gehörte. Mit dem Falken sammelt Celes die übrigen Figuren ein: Terra kümmert sich in Mobliz um Waisenkinder und entdeckt im Kampf gegen ein Monster ihre Liebe zu ihnen. Cyan lebt auf dem Berg bei Zozo und schreibt einer jungen Frau, die ihn für ihren toten Freund hält. Strago ist Kefkas Sekte beigetreten, weil er Relm für tot hält, die in Jidoor als Malerin arbeitet. Shadow kämpft in der Arena am Drachenhals. Lock sucht in der Phönix-Grotte nach einem Weg, seine tote Geliebte Rachel zurückzuholen, und versöhnt sich dort mit seiner Schuld. Mog, Umaro, Gau und Gogo sind optional ebenfalls zu finden.
 
 ### Kefkas Turm
 
@@ -62,7 +62,7 @@ Die Gruppe weiß, dass mit den Statuen auch die Magie vergehen würde, und fragt
 
 ## Enden
 
-Das Spiel hat ein Hauptende: Kefka wird besiegt, Magie und Esper verschwinden. Der Abspann ist laut deutschem Fandom-Wiki umso länger, je mehr Figuren der Spieler im zweiten Spielabschnitt wiedergefunden hat, da jede eine Schlussszene hat. Terras Esperform vergeht, sie überlebt als Mensch. Cids Schicksal in der Welt des Ruins ist variabel [unsicher: Bedingung in den Quellen nicht genannt]. Die Quellen nennen kein weiteres Ende.
+Das Spiel hat ein Hauptende: Kefka wird besiegt, Magie und Esper verschwinden. Der Abspann ist laut deutschem Fandom-Wiki umso länger, je mehr Figuren der Spieler im zweiten Spielabschnitt wiedergefunden hat, da jede eine Schlussszene hat. Terras Esperform vergeht, sie überlebt als Mensch. Cids Schicksal in der Welt des Ruins ist variabel: Es hängt davon ab, ob der Spieler ihn mit genügend gesunden Fischen versorgt. Die Quellen nennen kein weiteres Ende.
 
 ## Für eigene Spiele
 
@@ -82,3 +82,6 @@ Das Spiel hat ein Hauptende: Kefka wird besiegt, Magie und Esper verschwinden. D
 2. https://de.wikipedia.org/wiki/Final_Fantasy_VI
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_VI
 4. https://finalfantasy.fandom.com/de/wiki/Final_Fantasy_VI
+5. https://finalfantasy.fandom.com/wiki/Cid_Del_Norte_Marguez
+6. https://finalfantasy.fandom.com/wiki/Solitary_Island
+7. https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_VI

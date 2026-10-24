@@ -13,7 +13,7 @@
 
 Die vier Elemente, die diese Welt im Gleichgewicht halten, geraten aus den Fugen: Das Land verdorrt, das Wasser wird unruhig, die Winde bleiben aus. Die Ursache liegt an vier Kristallen, die ihr Licht verloren haben. Eine alte Weissagung verspricht, dass vier junge Krieger auftauchen, die jeweils einen dieser dunklen Kristalle tragen und die Welt retten werden. Genau diese vier stehen zu Beginn vor den Toren eines Königreichs. Woher sie kommen, bleibt offen; sie sind Auftragnehmer, keine Charaktere mit eigener Geschichte.
 
-Der Spieler zieht von einem Auftrag zum nächsten: Zuerst geht es um eine entführte Prinzessin, dann um Piraten, Zauberer, Zwerge und verborgene Höhlen. Mit jedem Schritt öffnet sich die Karte weiter, bis die Reise Meere, Vulkane, eine versunkene Stadt und eine fliegende Festung umfasst. Der Ton ist ernst und märchenhaft, ohne viel Ironie. [unsicher: Einschätzung des Tons stammt von mir, die Quellen beschreiben ihn nicht ausdrücklich.] Die Geschichte wird knapp erzählt, über kurze Gespräche mit Dorfbewohnern und Königen, und lässt viel Raum für die eigene Vorstellung. Mehr sei hier nicht verraten.
+Der Spieler zieht von einem Auftrag zum nächsten: Zuerst geht es um eine entführte Prinzessin, dann um Piraten, Zauberer, Zwerge und verborgene Höhlen. Mit jedem Schritt öffnet sich die Karte weiter, bis die Reise Meere, Vulkane, eine versunkene Stadt und eine fliegende Festung umfasst. Der Ton wirkt ernst und märchenhaft, ohne viel Ironie. Die Geschichte wird knapp erzählt, über kurze Gespräche mit Dorfbewohnern und Königen, und lässt viel Raum für die eigene Vorstellung. Mehr sei hier nicht verraten.
 
 ## Handlung (Spoiler!)
 
@@ -29,7 +29,7 @@ In der Hafenstadt Pravoka befreien die Krieger den Ort von dem Piratenanführer 
 
 ### Erde und Feuer
 
-In der fast verwüsteten Stadt Melmond hören die Krieger, ein Vampir in der Erdhöhle (deutsch Terra-Höhle) sei schuld. Sie töten ihn und nehmen den Star Ruby an sich, der ihnen den Zugang zur Höhle des Weisen Sarda (englisch Sage Sarda's cave) verschafft. Mit Sardas Rod dringen sie tiefer in die Höhle vor und besiegen das Erd-Chaos Lich (deutsch „Todbringer“). Danach erhalten sie ein Kanu und stellen sich im Vulkan Gurug (englisch Gurgu) dem Feuer-Chaos Kary. Der Levistone aus der Ice Cave hebt ein Luftschiff, mit dem sie die nördlichen Kontinente erreichen. [unsicher: Die englische Wikipedia nennt den Feuerdämon Kary, die deutsche Kali, das Fan-Wiki Marilith; vermutlich eine Figur mit abweichenden Namen der Fassungen.]
+In der fast verwüsteten Stadt Melmond hören die Krieger, ein Vampir in der Erdhöhle (deutsch Terra-Höhle) sei schuld. Sie töten ihn und nehmen den Star Ruby an sich, der ihnen den Zugang zur Höhle des Weisen Sarda (englisch Sage Sarda's cave) verschafft. Mit Sardas Rod dringen sie tiefer in die Höhle vor und besiegen das Erd-Chaos Lich (deutsch „Todbringer“). Danach erhalten sie ein Kanu und stellen sich im Vulkan Gurug (englisch Gurgu) dem Feuer-Chaos Marilith (im NES-Original „Kary“, in der deutschen Wikipedia „Kali“). Der Levistone aus der Ice Cave hebt ein Luftschiff, mit dem sie die nördlichen Kontinente erreichen. Das Fan-Wiki führt „Kary“ als Fehlübersetzung von „Kali“ und Marilith als Namen der späteren Fassungen.
 
 ### Wasser und Wind
 
@@ -37,7 +37,7 @@ Eine Fee, der die Krieger zuvor geholfen haben, schenkt ihnen eine Flüssigkeit,
 
 ### Der Sprung in die Vergangenheit
 
-Vom Luftschloss aus sehen die Krieger, wie sich die Kräfte der vier Schreine im Chaos-Tempel sammeln. Dort öffnet sich ein Portal, das sie 2000 Jahre in die Vergangenheit wirft. Sie treffen auf den Schöpfer der vier Chaosse. Es ist Garland, der längst für besiegt gehalten wurde, nun als Erzdämon Chaos. Er erklärt, dass die vier Chaosse ihn damals in die Vergangenheit zurückgeschickt hatten und er sie wiederum in die Zukunft entsandt hat. So entstand eine Zeitschleife, in der er sich selbst am Leben hält. Das Fan-Wiki fügt hinzu, dass die vier Chaosse aus Garlands Hass entstanden, der sich mit den Elementen verband. [unsicher: Die deutsche Wikipedia schreibt, die Chaosse hätten Garland aus der Unterwelt gerettet und Garland sei von den Kriegern getötet worden; die englischen Quellen sprechen von der Rückführung durch die Chaosse, ohne diese Details.]
+Vom Luftschloss aus sehen die Krieger, wie sich die Kräfte der vier Schreine im Chaos-Tempel sammeln. Dort öffnet sich ein Portal, das sie 2000 Jahre in die Vergangenheit wirft. Sie treffen auf den Schöpfer der vier Chaosse. Es ist Garland, der längst für besiegt gehalten wurde, nun als Erzdämon Chaos. Er erklärt, dass die Kräfte der vier Chaosse der Gegenwart ihn nach seiner Niederlage, am Rand des Todes, in die Vergangenheit geschickt hatten und er sie wiederum in die Zukunft entsandt hat. So entstand eine Zeitschleife, in der er sich selbst am Leben hält. Das Fan-Wiki fügt hinzu, dass die vier Chaosse aus Garlands Hass entstanden, der sich mit den Elementen verband. Nur die deutsche Wikipedia nennt einen Ort: Die Chaosse hätten ihn aus der Unterwelt geholt.
 
 Die Krieger besiegen Chaos im Kampf. Damit endet die Schleife. Sie kehren in ihre Zeit zurück.
 
@@ -53,7 +53,7 @@ Die Krieger besiegen Chaos im Kampf. Damit endet die Schleife. Sie kehren in ihr
 - **Nerrick** – Zwerg, der mit TNT den Weg aus dem Aldi Sea freisprengt.
 - **Bahamut** – Drachenkönig der Cardia-Inseln, der die Klassen der Krieger aufwertet, nachdem sie ihm den Beweis einer bestandenen Prüfung gebracht haben.
 - **Dr. Unne** – Sprachforscher, der die Lufenianersprache lehrt.
-- **Die vier Chaosse (Fiends)** – Lich (Erde), Kary/Kali/Marilith (Feuer), Aquadon/Kraken (Wasser), Tiamat (Wind). Sie halten die Kristalle dunkel.
+- **Die vier Chaosse (Fiends)** – Lich (Erde), Marilith (NES: Kary, deutsch: Kali) (Feuer), Aquadon/Kraken (Wasser), Tiamat (Wind). Sie halten die Kristalle dunkel.
 
 ## Enden
 
@@ -76,3 +76,5 @@ Das Spiel hat nach den vorliegenden Quellen nur ein Ende, das nicht von Spielere
 1. https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)
 2. https://de.wikipedia.org/wiki/Final_Fantasy_(Computerspiel)
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy
+4. https://finalfantasy.fandom.com/wiki/Marilith_(Final_Fantasy)
+5. https://finalfantasy.fandom.com/wiki/Garland_(Final_Fantasy)

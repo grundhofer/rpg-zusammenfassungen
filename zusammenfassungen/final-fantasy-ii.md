@@ -72,7 +72,7 @@ In den Fassungen für Game Boy Advance und PSP erzählt eine eigene Kampagne von
 
 ## Enden
 
-Das Hauptspiel hat ein einziges Ende: Der Kaiser wird in Pandaemonium besiegt, die Monster verschwinden, Leon geht allein davon. [unsicher: Die Quellen nennen keine Verzweigung oder Bedingung, die das Ende verändert.]
+Im Hauptspiel endet die Geschichte so: Der Kaiser wird in Pandaemonium besiegt, die Monster verschwinden, Leon geht allein davon. Die Quellen (englische und deutsche Wikipedia, Fan-Wiki) beschreiben nur dieses eine Ende und nennen keine Bedingung, die es verändert.
 
 Ein zweites, zusätzliches Ende hat „Soul of Rebirth“ (nur Game Boy Advance und PSP): Die vier Gefallenen besiegen den Lichten Kaiser und verschwinden, vermutlich in den Himmel. Es hängt nur davon ab, dass man diese spätere Fassung spielt.
 
