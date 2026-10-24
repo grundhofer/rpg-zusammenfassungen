@@ -1,0 +1,11 @@
+# Nur die Website wird veröffentlicht; Pipeline, Recherche und Nebenfassungen bleiben lokal
+/*
+!/.gitignore
+!/_config.yml
+!/index.md
+!/LICENSE.md
+!/zusammenfassungen/
+/zusammenfassungen/*
+!/zusammenfassungen/*.md
+/zusammenfassungen/*.minimax.*
+/zusammenfassungen/*.belege.md
