@@ -4,6 +4,7 @@
 !/_config.yml
 !/index.md
 !/LICENSE.md
+!/_layouts/
 !/zusammenfassungen/
 /zusammenfassungen/*
 !/zusammenfassungen/*.md
