@@ -74,7 +74,7 @@ Der Protagonist stellt sich der Polizei, damit Shido verurteilt wird. Seine Freu
 - **Schlechtes Ende 1 (Verrat im Verhör):** Verrät der Protagonist seine Freunde gegenüber Sae, tötet Akechi ihn und das Spiel endet im Velvet Room.
 - **Schlechtes Ende 2 (Pakt mit dem falschen Gott):** Nimmt er Yaldabaoths Angebot an, werden die Phantomdiebe gefeiert, die Menschen verlieren aber ihren freien Willen.
 - **Game Over bei Fristen:** Wird ein Palast nicht rechtzeitig abgeschlossen, endet das Spiel mit der Verhaftung und einer Szene aus dem Verhör.
-- **In *Royal*:** Zusätzliche Enden hängen davon ab, ob der Protagonist Marukis Scheinwelt annimmt oder deren Frist verstreichen lässt; dann schläft er dauerhaft ein.
+- **In *Royal*:** Zusätzliche Enden hängen davon ab, ob der Protagonist Marukis Scheinwelt annimmt oder dagegen ankämpft; lässt er die Frist verstreichen, ohne Marukis Herz zu ändern, versetzt Maruki ihn in dauerhaften Schlaf.
 
 ## Für eigene Spiele
 

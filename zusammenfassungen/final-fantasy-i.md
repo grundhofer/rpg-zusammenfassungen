@@ -19,7 +19,7 @@ Der Spieler zieht von einem Auftrag zum nächsten: Zuerst geht es um eine entfü
 
 ### Vorgeschichte und Aufbruch in Cornelia
 
-Vor etwa vierhundert Jahren verlor der Windkristall sein Licht. Das Volk der Lufenianer, das mit dessen Kraft Luftschiffe und eine riesige schwebende Festung gebaut hatte, ging daraufhin unter. Rund zweihundert Jahre später versank bei Unwettern ein gewaltiges Heiligtum, das Zentrum einer Meereskultur, und auch der Wasserkristall erlosch. Später folgten Erd- und Feuerkristall; Waldbrände wüteten, und die Felder und Pflanzen um die Stadt Melmond verfielen. Der Weise Lukan (englisch Lukahn) sagt vor diesem Hintergrund vier „Krieger des Lichts“ voraus.
+Vor etwa vierhundert Jahren verlor der Windkristall sein Licht. Das Volk der Lufenianer, das mit dessen Kraft Luftschiffe und eine riesige schwebende Festung gebaut hatte, sah daraufhin sein Land verfallen. Rund zweihundert Jahre später versank bei Unwettern ein gewaltiges Heiligtum, das Zentrum einer Meereskultur, und auch der Wasserkristall erlosch. Später folgten Erd- und Feuerkristall; Waldbrände wüteten, und die Felder und Pflanzen um die Stadt Melmond verfielen. Der Weise Lukan (englisch Lukahn) sagt vor diesem Hintergrund vier „Krieger des Lichts“ voraus.
 
 Das Spiel beginnt mit dem Auftauchen dieser vier. Jeder trägt einen der verdunkelten Kristalle. Anfangs können sie nur Cornelia und den ruinierten Chaos-Tempel erreichen. Der König von Cornelia bittet sie, seine Tochter Prinzessin Sela (englisch Sarah) zu befreien. Der abtrünnige Ritter Garland hat sie verschleppt. Die Krieger besiegen Garland im Chaos-Tempel. Daraufhin lässt der König eine Brücke bauen, die den Weg nach Osten freigibt.
 
@@ -57,7 +57,7 @@ Die Krieger besiegen Chaos im Kampf. Damit endet die Schleife. Sie kehren in ihr
 
 ## Enden
 
-Das Spiel hat nach den vorliegenden Quellen nur ein Ende, das nicht von Spielerentscheidungen abhängt; Klassenwahl und Reihenfolge ändern laut deutscher Wikipedia Handlung und Dialoge nicht. Nach dem Sieg über Chaos ist die Zeitschleife beendet, die Welt ist wiederhergestellt, und die Krieger kehren in ihre Gegenwart zurück. Ihre Taten bleiben außerhalb von Legenden unbekannt.
+Das Spiel hat nach den vorliegenden Quellen nur ein Ende, das nicht von Spielerentscheidungen abhängt; Die Klassenwahl ändert laut deutscher Wikipedia Handlung und Dialoge nicht. Nach dem Sieg über Chaos ist die Zeitschleife beendet, die Welt ist wiederhergestellt, und die Krieger kehren in ihre Gegenwart zurück. Ihre Taten bleiben außerhalb von Legenden unbekannt.
 
 ## Für eigene Spiele
 

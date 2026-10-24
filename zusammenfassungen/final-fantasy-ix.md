@@ -57,7 +57,7 @@ Ein Jahr später kommt die Tantalus-Truppe zu einer Aufführung nach Alexandria.
 
 ## Enden
 
-Das Spiel hat laut den Quellen ein einziges Ende. Verzweigungen oder Bedingungen für das Ende nennen die Quellen nicht. Die Erzählung endet mit der Rettung der beiden Welten, dem Epilog nach einem Jahr und der Wiedervereinigung von Zidane und Garnet im Theater. Offen bleibt in der englischen Wikipedia Kujas Tod; Vivis Tod wird nur angedeutet.
+Das Spiel hat laut den Quellen ein einziges Ende. Eine zusätzliche Szene im Epilog setzt voraus, dass der Hammer im Inventar ist (laut Fandom-Wiki, Seite „I Want to Be Your Canary“; weitere Bedingungen nennen die Quellen nicht). Die Erzählung endet mit dem Sieg über Kuja und Necron, nachdem Kuja Terra zerstört hat, dem Epilog nach einem Jahr und der Wiedervereinigung von Zidane und Garnet im Theater. Offen bleibt in der englischen Wikipedia Kujas Tod; Vivis Tod wird nur angedeutet.
 
 ## Für eigene Spiele
 
@@ -77,3 +77,4 @@ Das Spiel hat laut den Quellen ein einziges Ende. Verzweigungen oder Bedingungen
 2. https://de.wikipedia.org/wiki/Final_Fantasy_IX
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX
 4. https://finalfantasy.fandom.com/wiki/Zidane_Tribal
+5. https://finalfantasy.fandom.com/wiki/I_Want_to_Be_Your_Canary

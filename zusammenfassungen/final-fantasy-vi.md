@@ -30,7 +30,7 @@ Die Rückkehrer verteidigen Narshe gegen Kefka. An der Esper am Berg reagiert Te
 
 ### Öffnung des Tores und der Verrat
 
-Die Rückkehrer wollen die Esper als Verbündete gewinnen. Terra ruft sie am Tor zwischen den Welten; die Esper strömen heraus und verwüsten Vector. Kaiser Gestahl erklärt sich daraufhin zu einem Waffenstillstand bereit. Terra und Lock begleiten General Leo, um die geflohenen Esper zu finden; Celes ist als kaiserliche Generälin dabei, und Shadow hat Leo angeheuert. In Thamasa lernt die Gruppe Strago und dessen Enkelin Relm kennen; beide können Magie anwenden. Dort kommt es zu einem Treffen zwischen Leo und den Esper, doch Kefka erscheint, tötet Leo und viele Esper und nimmt ihre Maginit-Splitter an sich. Der Friedensschluss war eine Falle. Gestahl und Kefka dringen in die Esperwelt ein, finden die Statuen des Kriegstriumvirats und heben mit deren Kraft den Magischen Kontinent aus dem Meer.
+Die Rückkehrer wollen die Esper als Verbündete gewinnen. Terra ruft sie am Tor zwischen den Welten; die Esper strömen heraus und verwüsten Vector. Kaiser Gestahl erklärt sich daraufhin zu einem Waffenstillstand bereit. Terra und Lock begleiten General Leo, um die geflohenen Esper zu finden; Celes ist als kaiserliche Generälin dabei, und Leo hat Shadow angeheuert. In Thamasa lernt die Gruppe Strago und dessen Enkelin Relm kennen; beide können Magie anwenden. Dort kommt es zu einem Treffen zwischen Leo und den Esper, doch Kefka erscheint, tötet Leo und viele Esper und nimmt ihre Maginit-Splitter an sich. Der Friedensschluss war eine Falle. Gestahl und Kefka dringen in die Esperwelt ein, finden die Statuen des Kriegstriumvirats und heben mit deren Kraft den Magischen Kontinent aus dem Meer.
 
 ### Der Magische Kontinent und das Ende der alten Welt
 

@@ -35,7 +35,7 @@ Der Spieler bereitet sich in Timber Hearth auf seinen ersten Flug vor. Er soll d
 
 ### Erkundung des Systems
 
-Es gibt keine feste Reihenfolge. Der Spieler besucht die Planeten und entdeckt dort Nomai-Texte, die als verzweigte Gespräche zwischen Personen mit stark unterschiedlichen Eigenarten angelegt sind. Jede Spur verweist auf andere: auf die Ortungsanlagen, die Station im Orbit von Giant's Deep, die versteckte Stadt unter der Oberfläche von Ember Twin, den Quantenmond, der bei jeder Beobachtung seinen Ort wechselt, und die Sun Station. So setzt sich die oben erzählte Geschichte stückweise zusammen.
+Es gibt keine feste Reihenfolge. Der Spieler besucht die Planeten und entdeckt dort Nomai-Texte, die als verzweigte Gespräche zwischen Personen mit stark unterschiedlichen Eigenarten angelegt sind. Jede Spur verweist auf andere: auf die Ortungsanlagen, die Station im Orbit von Giant's Deep, die versteckte Stadt unter der Oberfläche von Ember Twin, den Quantenmond, der seinen Ort wechselt, solange er unbeobachtet ist, und die Sun Station. So setzt sich die oben erzählte Geschichte stückweise zusammen.
 
 Die Welt verändert sich dabei laufend. Auf Ash Twin und Ember Twin wandert der Sand und öffnet oder verschließt Höhlen, Brittle Hollow bricht in ein Schwarzes Loch ein, und die Sonne bläht sich auf. Bestimmte Orte sind nur zu bestimmten Zeitpunkten der 22 Minuten erreichbar.
 

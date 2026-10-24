@@ -23,7 +23,7 @@ Das Spiel beginnt kurz nach den Ereignissen von Teil 1: Die Gruppe um die Hauptf
 
 ### Geld für die Rettung: Athkatla
 
-In den Slums bietet Gaelan Bayle die Hilfe der Schattendiebe an, die Imoen oder Irenicus aufspüren können, für 20 000 Goldstücke. Später wirbt eine rivalisierende Gruppe unter einer Frau namens Bodhi um die Hauptfigur; der Spieler entscheidet, auf wessen Seite er steht. Das Fan-Wiki beschreibt Bodhi als Vampirin und nennt als Gegenpart Aran Linvail, den Anführer der Schattendiebe. Die Gruppe sammelt das Geld mit Aufträgen in der Stadt und im Umland. Zu den Orten gehören die Umar-Berge, in denen Menschen verschwinden, die de'Arnise-Burg, die von Trollen überrannt wurde, und die Windspeer-Hügel mit dem Drachen Firkraag. Daneben spielen die Schattendiebe, die Cowled Wizards und die halbgeheimen Harpers in Haupt- und Nebenhandlung eine Rolle. Die Gruppe kommt außerdem mit einem Händlerreich in Berührung, das von einem anonymen Rat der Sechs regiert wird. Die Entscheidung für eine Gilde beeinflusst, welche Begleiter mitreisen und welche Streitigkeiten daraus entstehen.
+In den Slums bietet Gaelan Bayle die Hilfe der Schattendiebe an, die Imoen oder Irenicus aufspüren können, für 20 000 Goldstücke. Später wirbt eine rivalisierende Gruppe unter einer Frau namens Bodhi um die Hauptfigur; der Spieler entscheidet, auf wessen Seite er steht. Das Fan-Wiki beschreibt Bodhi als Vampirin und nennt als Gegenpart Aran Linvail, den Anführer der Schattendiebe. Die Gruppe sammelt das Geld mit Aufträgen in der Stadt und im Umland. Zu den Orten gehören die Umar-Berge, in denen Menschen verschwinden, die de'Arnise-Burg, die von Trollen überrannt wurde, und die Windspeer-Hügel mit dem Drachen Firkraag. Daneben spielen die Schattendiebe, die Cowled Wizards und die halbgeheimen Harpers in Haupt- und Nebenhandlung eine Rolle. Die Gruppe kommt außerdem mit einem Händlerreich in Berührung, das von einem anonymen Rat der Sechs regiert wird.
 
 ### Spellhold
 
@@ -44,7 +44,7 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 - **Bodhi** – Irenicus' Schwester und zweite Gegnerin; hält Imoens Seele und jagt die Gruppe.
 - **Imoen** – Jugendfreundin aus Candlekeep, ebenfalls Bhaalskind. Sie wird in der Fortsetzung als Halbschwester der Hauptfigur enthüllt (deutsche und englische Wikipedia). Sie befreit die Hauptfigur und wird selbst Opfer von Irenicus' Ritual.
 - **Jaheira, Minsc, Edwin, Viconia** – Rückkehrer aus Teil 1, als Begleiter anwerbbar. Jaheira ist nach Khalids Tod erschüttert.
-- **Neue Begleiter** – darunter Aerie (geflügelte Elfin ohne Flügel), Anomen und Keldorn (Ritter des Ordens vom Strahlenden Herzen), Mazzy, Nalia, Valygar, Cernd, Haer'Dalis, Jan, Yoshimo und Korgan. Sie bringen eigene Aufträge und Konflikte mit.
+- **Neue Begleiter** – darunter Aerie (geflügelte Elfin ohne Flügel), Anomen (Mitglied des Ordens vom Strahlenden Herzen, will volle Ritterwürde erlangen) und Keldorn (Paladin im selben Orden), Mazzy, Nalia, Valygar, Cernd, Haer'Dalis, Jan, Yoshimo und Korgan. Sie bringen eigene Aufträge und Konflikte mit.
 - **Gaelan Bayle, Aran Linvail, Saemon Havarian** – Mittelsmänner und Gildenführer, die der Gruppe Wege nach Spellhold öffnen.
 - **Melissan / Amelyssan** – scheinbare Helferin, tatsächlich Hauptgegnerin in *Thron des Bhaal*.
 - **Die Fünf** – Illasera, Yaga-Shura, Sendai, Abazigal und Balthazar; mächtige Bhaalskinder.
@@ -59,7 +59,7 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 - **Zentrale Wendungen:** (1) Der Gegner hat alles geplant, die Rettung war die Falle. (2) Die Hauptfigur verliert die Seele und verwandelt sich in ein Monster, das nach dem Vater schlägt. (3) Die Helferin Melissan ist die eigentliche Gegnerin. Sie wirken, weil die Spielfigur selbst betroffen ist, nicht eine Nebenfigur.
 - **Figuren-Archetypen und Beziehungen:** Der Gegner als Spiegelbild des Helden (ausgestoßen, auf Macht aus), eine Freundin, die zugleich Opfer und Mitbetroffene ist, Begleiter mit eigenen Aufträgen und Romanzen.
 - **Themen und Motive:** Vererbte Schuld, Kontrolle über den eigenen Körper, Seele als Handelsgut, Gier gegen Loyalität, Entscheidung über göttliche Macht oder sterbliches Leben.
-- **Mechanik und Erzählung:** Die Wahl der Gilde verändert, welche Begleiter mitreisen und welche Konflikte entstehen. Das Geld als Hürde macht die Nebenaufträge zur Pflicht. Je nach Klasse bekommt der Spieler einen anderen Stützpunkt. Die Verwandlung in den Slayer ist eine Spielmechanik, die zugleich die Handlung trägt.
+- **Mechanik und Erzählung:** Das Geld als Hürde macht die Nebenaufträge zur Pflicht. Je nach Klasse bekommt der Spieler einen anderen Stützpunkt. Die Verwandlung in den Slayer ist eine Spielmechanik, die zugleich die Handlung trägt.
 - **Übertragbare Ideen:**
   - Eine Rettungsmission, bei der der Preis in Geld und Zeit steht, sodass die Nebenaufträge zur Hauptlinie werden.
   - Ein Kontrollverlust als Spielmechanik: Die Figur verwandelt sich und wird zeitweise zur Gefahr für die eigene Gruppe.

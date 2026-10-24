@@ -6,7 +6,7 @@
 - **Entwickler / Publisher:** Square (Product Development Division 3); Regie Tetsuya Takahashi, Produzent Hiromichi Tanaka, Musik Yasunori Mitsuda, Figurendesign Kunihiko Tanaka. Das Drehbuch stammt von Takahashi, Kaori Tanaka (Soraya Saga) und Masato Kato.
 - **Plattformen (Erstveröffentlichung):** PlayStation.
 - **Welt:** Ein Planet mit Fantasy- und Science-Fiction-Elementen. Das Spiel beginnt auf dem Kontinent Ignas, wo seit Langem die Länder Aveh und Kislev Krieg führen. Im Verlauf kommen die beiden schwebenden Staaten Shevat und Solaris hinzu. Riesige Kampfroboter heißen *Gears*.
-- **Erzählperspektive / Protagonist:** Fei Fong Wong, ein junger Mann ohne Erinnerung an seine Vergangenheit; eine Gruppe von neun spielbaren Figuren begleitet ihn. Die Handlung greift auf Ereignisse über mehrere Jahrtausende zurück. Laut Wikipedia ist es die fünfte Episode einer auf sechs Teile angelegten Reihe, was auch der Abspann nennt.
+- **Erzählperspektive / Protagonist:** Fei Fong Wong, ein junger Mann ohne Erinnerung an seine Vergangenheit; er ist eine von insgesamt neun spielbaren Figuren. Die Handlung greift auf Ereignisse über mehrere Jahrtausende zurück. Laut Wikipedia ist es die fünfte Episode einer auf sechs Teile angelegten Reihe, was auch der Abspann nennt.
 
 ## Worum es geht (spoilerfrei)
 

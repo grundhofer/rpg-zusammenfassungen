@@ -10,7 +10,7 @@
 
 ## Worum es geht (spoilerfrei)
 
-Tidus ist Star einer Unterwassersportart in einer glitzernden Hightech-Stadt, als ein gewaltiges Wesen seine Heimat angreift. Er wacht in einer fremden, tropisch-religiösen Welt namens Spira auf, deren Bewohner Zanarkand nur als heilige Ruine kennen. Dort herrscht Angst vor Sin, einem Ungeheuer, das Städte vernichtet. Alle paar Jahre bricht ein Medium, eine Beschwörerin oder ein Beschwörer, zur Pilgerreise auf, um Sin mit der höchsten Beschwörung zu besiegen. Tidus schließt sich der jungen Yuna und ihrer Leibgarde an, in der Hoffnung, einen Weg nach Hause zu finden.
+Tidus ist Star einer Unterwassersportart in einer glitzernden Hightech-Stadt, als ein gewaltiges Wesen seine Heimat angreift. Er wacht in einer fremden, tropisch-religiösen Welt namens Spira auf, deren Bewohner Zanarkand nur als heilige Ruine kennen. Dort herrscht Angst vor Sin, einem Ungeheuer, das Städte vernichtet. Medien, also Beschwörerinnen und Beschwörer, brechen zu gefährlichen Pilgerreisen auf, um Sin mit der höchsten Beschwörung zu besiegen. Tidus schließt sich der jungen Yuna und ihrer Leibgarde an, in der Hoffnung, einen Weg nach Hause zu finden.
 
 Auf der Reise von Insel zu Insel, von Tempel zu Tempel lernt er Bräuche, Glauben und Verluste der Menschen kennen. Die Gruppe stößt auf Widersprüche in dem, was die Kirche lehrt, und auf Menschen, die mehr wissen, als sie sagen. Der Ton ist wehmütig und ernst, getragen von Abschieden und Rückblicken. Dazwischen stehen helle Szenen: Sport, Freundschaft und eine zaghafte Liebesgeschichte. Im Kern geht es darum, was man bereit ist zu opfern, damit andere Frieden haben, und ob es dafür keinen anderen Weg gibt.
 
@@ -61,7 +61,7 @@ Yuna sendet Sin und die Bestia ins Abyssum und befreit damit die Asthra aus ihre
 
 ## Enden
 
-Das Spiel hat ein einziges Handlungsende; mehrere Enden gibt es laut den Quellen nicht. Sin und Yu-Yevon sind besiegt, der Kreislauf der Wiedergeburt endet, die Asthra sind frei, Auron wird gesendet, und Traum-Zanarkand verschwindet mit Tidus. Der Ausgang hängt nicht von Spielerentscheidungen ab. Lediglich das Blitzball-Finale in Luca hängt vom Geschick des Spielers ab, wirkt sich laut de-Wikipedia aber nur auf diese Szene aus. Die Szene nach dem Abspann, in der Tidus unter Wasser aufwacht, lässt offen, ob und wie er überlebt.
+Die Quellen beschreiben nur dieses eine Ende. Sin und Yu-Yevon sind besiegt, der Kreislauf der Wiedergeburt endet, die Asthra sind frei, Auron wird gesendet, und Traum-Zanarkand verschwindet mit Tidus. Laut de-Wikipedia hängt der Turniersieg im Blitzball-Finale in Luca vom Geschick des Spielers ab. Die Szene nach dem Abspann, in der Tidus unter Wasser aufwacht, lässt offen, ob und wie er überlebt.
 
 ## Für eigene Spiele
 

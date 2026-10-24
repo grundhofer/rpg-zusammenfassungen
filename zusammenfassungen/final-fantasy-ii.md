@@ -51,7 +51,7 @@ Die Gruppe kehrt nach Fynn zurück, wo Hilda, Gordon, Nelly, Leila und Paul sie 
 
 ### Zusatzgeschichte „Soul of Rebirth“
 
-In den Fassungen für Game Boy Advance und PSP erzählt eine eigene Kampagne von den Gefallenen Minwu, Scott, Josef und Ricard. Sie erwachen im Jenseits, wo in Machanon eine Zuflucht für Seelen entstanden ist, und kämpfen sich bis zum Unbekannten Palast Arubboth vor. Dort bietet ihnen die lichte Hälfte des Kaisers, die sich bei dessen Tod abgespalten hat, Frieden an. Die Seelen ihrer lebenden Freunde und Angehörigen warnen sie, der Lichte Kaiser sei ebenso böse wie der dunkle. Sie besiegen ihn, sehen aus der Ferne das Ende von Firions Reise und lösen sich auf.
+In den Fassungen für Game Boy Advance und PSP (laut deutschem Fandom-Wiki auch in den alten Android- und iOS-Versionen) erzählt eine eigene Kampagne von den Gefallenen Minwu, Scott, Josef und Ricard. Sie erwachen im Jenseits, wo in Machanon eine Zuflucht für Seelen entstanden ist, und kämpfen sich bis zum Unbekannten Palast Arubboth vor. Dort bietet ihnen die lichte Hälfte des Kaisers, die sich bei dessen Tod abgespalten hat, Frieden an. Die Seelen ihrer lebenden Freunde und Angehörigen warnen sie, der Lichte Kaiser sei ebenso böse wie der dunkle. Sie besiegen ihn, sehen aus der Ferne das Ende von Firions Reise und lösen sich auf.
 
 ## Hauptfiguren
 
@@ -66,7 +66,7 @@ In den Fassungen für Game Boy Advance und PSP erzählt eine eigene Kampagne von
 - **Leila** – Piratin, die nach einem missglückten Überfall die Seiten wechselt.
 - **Ricard Highwind** – letzter Drachenritter von Deist; opfert sich gegen den Kaiser.
 - **Scott** – Prinz von Kashuan, Hildas Verlobter; stirbt früh und gibt der Gruppe seinen Ring.
-- **Paul** – Dieb im Dienst der Rebellion; hilft mehrfach bei Fluchten.
+- **Paul** – Dieb im Dienst der Rebellion; befreit die Gruppe aus dem Kerker des Kolosseums.
 - **Cid** – Luftschiffbesitzer; gibt der Gruppe sein Schiff, bevor er stirbt.
 - **Kaiser von Palamecia** – Gegenspieler, beschwört Ungeheuer aus der Hölle und kehrt nach seiner ersten Niederlage als Herrscher der Hölle zurück.
 
@@ -74,7 +74,7 @@ In den Fassungen für Game Boy Advance und PSP erzählt eine eigene Kampagne von
 
 Im Hauptspiel endet die Geschichte so: Der Kaiser wird in Pandaemonium besiegt, die Monster verschwinden, Leon geht allein davon. Die Quellen (englische und deutsche Wikipedia, Fan-Wiki) beschreiben nur dieses eine Ende und nennen keine Bedingung, die es verändert.
 
-Ein zweites, zusätzliches Ende hat „Soul of Rebirth“ (nur Game Boy Advance und PSP): Die vier Gefallenen besiegen den Lichten Kaiser und verschwinden, vermutlich in den Himmel. Es hängt nur davon ab, dass man diese spätere Fassung spielt.
+Ein zweites, zusätzliches Ende hat „Soul of Rebirth“ (laut deutschem Fandom-Wiki nur in den Fassungen für Game Boy Advance und PSP sowie den alten Android- und iOS-Versionen): Die vier Gefallenen besiegen den Lichten Kaiser und verschwinden, vermutlich in den Himmel. Die Kampagne erscheint erst im Auswahlbildschirm, nachdem das Hauptspiel komplett durchgespielt wurde.
 
 ## Für eigene Spiele
 
@@ -98,3 +98,5 @@ Ein zweites, zusätzliches Ende hat „Soul of Rebirth“ (nur Game Boy Advance 
 1. https://en.wikipedia.org/wiki/Final_Fantasy_II
 2. https://de.wikipedia.org/wiki/Final_Fantasy_II
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_II
+4. https://finalfantasy.fandom.com/de/wiki/Renaissance
+5. https://finalfantasy.fandom.com/de/wiki/Paul

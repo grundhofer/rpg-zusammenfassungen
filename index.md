@@ -2,6 +2,8 @@
 
 Story-Zusammenfassungen von Rollenspielen und Abenteuern auf Deutsch. Jede Seite hat einen spoilerfreien Einstieg, die vollständige Handlung (**Spoiler!**), Figuren, Enden und einen Abschnitt „Für eigene Spiele“ mit Plot-Struktur, Motiven und übertragbaren Ideen.
 
+**Neu:** [Erzählmuster im Vergleich](muster.md) – wiederkehrende Plot-Strukturen, Wendungen, Figurentypen und Mechaniken aus allen Spielen, als Werkzeugkasten für eigene Spiele.
+
 ## Final Fantasy
 
 - [Final Fantasy I](zusammenfassungen/final-fantasy-i.md) – 1987 · Square

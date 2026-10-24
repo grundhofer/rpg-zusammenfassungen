@@ -5,7 +5,7 @@
 - **Erscheinungsjahr:** 2019 (Windows, 15. Oktober 2019). macOS folgte am 27. April 2020. Die erweiterte Fassung *The Final Cut* erschien am 30. März 2021 für PlayStation 4/5 und Stadia sowie am 12. Oktober 2021 für Switch und Xbox; PC-Spieler erhielten sie als kostenloses Update. Eine Android-Fassung als Visual Novel erschien am 5. August 2025.
 - **Entwickler / Publisher:** ZA/UM. Leitender Autor und Designer ist der estnische Schriftsteller Robert Kurvitz, Art Director Aleksander Rostov, Musik von der britischen Band Sea Power (früher British Sea Power).
 - **Plattformen (Erstveröffentlichung):** Windows (Unity-Engine); später macOS, Konsolen und Android.
-- **Setting / Welt:** Die erfundene Welt *Elysium* mit über 6000 Jahren Geschichte, die Entwickler sprechen von „fantastischem Realismus“. Land liegt auf *Isolas*, getrennt durch das *Grau* (Original: *the Pale*). Die Handlung spielt im Jahr 51 der „Gegenwärtigen Zeitrechnung“ im verarmten Hafenbezirk Martinaise der Stadt Revachol auf der Isola Insulinde.
+- **Setting / Welt:** Die erfundene Welt *Elysium* mit über 6000 Jahren Geschichte, die Entwickler sprechen von „fantastischem Realismus“. Land liegt auf *Isolas*, getrennt durch das *Grau* (Original: *the Pale*). Die Handlung spielt im Jahr ’51 des „Current Century“ (Gegenwärtiges Jahrhundert) im verarmten Hafenbezirk Martinaise der Stadt Revachol auf der Isola Insulinde.
 - **Erzählperspektive / Protagonist:** Isometrische Ansicht, Einzelspieler. Gespielt wird ein gedächtnisloser Detektiv, der sich als Lieutenant Harrier „Harry“ Du Bois der Bürgermiliz Revachol (BMR, Original: RCM) herausstellt. Der Erzähltext besteht großteils aus Dialogen und inneren Stimmen der 24 Fertigkeiten.
 
 ## Worum es geht (spoilerfrei)
@@ -56,7 +56,7 @@ Zurück in Martinaise empfängt Harrys altes Team ihn und seinen Partner. Gemein
 - **Kim Kitsuragi** – Lieutenant aus Revier 57, Harrys vorübergehender Partner – Sachlicher, professioneller Gegenpol, der Rat gibt; je nach Verlauf überlebt er die Schießerei und begleitet Harry bis zum Schluss.
 - **Cuno** – Straßenjunge in Martinaise – Springt als Partner ein, falls Kim ausfällt, und kann bei gutem Verlauf Junior-Beamter im Revier werden.
 - **Lely (Colonel Ellis Kortenaer)** – Der Gehängte, Anführer der von Wild Pines gesandten Söldner – Steht nur als Leiche im Zentrum des Falls; seine wahre Todesursache bringt die Ermittlung voran.
-- **Klaasje** – Pensionsgast, frühere Konzernspionin – Erzählt die Gegenversion zur Vergewaltigungsbehauptung und löst damit die Vertuschung aus.
+- **Klaasje** – Pensionsgast, frühere Konzernspionin – Erzählt den Ermittlern die Gegenversion zur Vergewaltigungsbehauptung; die Vertuschung hatte sie zuvor mit Ruby und den Hardie Boys veranlasst.
 - **Ruby** – Gewerkschaftsunterstützerin – Inszeniert das Hängen, hält Harry für korrupt und stirbt bei der Festnahme oder entkommt.
 - **Iosef Lilianovich Dros** – ehemaliger Kommissar der kommunistischen Armee, der Schütze – Erweist sich als Mörder, getrieben von Groll und Eifersucht, und wird festgenommen.
 - **Evrart Claire** – Gewerkschaftsführer der Hafenarbeiter – Vertritt die Streikenden gegenüber den Ermittlern.
@@ -69,7 +69,7 @@ Zurück in Martinaise empfängt Harrys altes Team ihn und seinen Partner. Gemein
 Das Spiel hat laut dem Fan-Wiki drei Haupt-Enden und zwölf eigene Game-Over-Enden. Welches Hauptende eintritt, entscheidet sich nach dem Söldner-Tribunal (der Schlussszene mit den Söldnern in der Cafeteria), und zwar daran, ob Harry Kim vorgewarnt hat:
 
 - **Kim bleibt Partner:** Hat Harry Kim beim Tribunal erfolgreich gewarnt, begleitet ihn Kim zur Festung. Danach kehrt Kim entweder in sein eigenes Revier im Industriehafen zurück, oder er wechselt zu Revier 41 und fährt mit Harry.
-- **Ohne Kim, mit Cuno:** Hat Harry Kim nicht gewarnt, wird er mit einer Schusswunde im Revier 57 versorgt und hat keinen Partner. Nimmt er Cuno mit, bleibt dieser entweder in Martinaise zurück, oder Harry überzeugt Jean Vicquemare, Cuno als Junior-Beamten aufzunehmen.
+- **Ohne Kim, mit Cuno:** Hat Harry Kim nicht gewarnt, wird Kim angeschossen und im Revier 57 versorgt, und Harry hat keinen Partner. Nimmt er Cuno mit, bleibt dieser entweder in Martinaise zurück, oder Harry überzeugt Jean Vicquemare, Cuno als Junior-Beamten aufzunehmen.
 - **Allein:** Lehnt Harry Cunos Hilfe ab, geht er allein zur Festung. Ob das gut oder schlecht ausgeht, hängt von seinem Verhalten ab: Blieb er völlig nüchtern oder verinnerlichte er den Gedanken „Waste Land of Reality“ (deutscher Name nicht belegt), darf er ins Revier 41 zurück. Hat er getrunken und den Gedanken nicht verinnerlicht, bleibt er in Martinaise in der Strandhütte zurück (schlechtes Ende).
 
 Die Game-Overs erscheinen als Zeitungsmeldungen. Auslöser sind unter anderem leere Gesundheits- oder Moralwerte (Herzinfarkt bzw. Zusammenbruch), der Tod beim Konfrontieren der Hardie Boys oder Rubys, ein Elektrounfall am Schleusentor, das Erschießen des Kindes Cunoesse, das Beenden der Polizeikarriere nach Rubys Suizid sowie das Mitgehen mit der „Moralintern“ im Rahmen der moralistischen Vision Quest.
