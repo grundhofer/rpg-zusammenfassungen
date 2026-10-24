@@ -40,7 +40,7 @@ Unterwegs lernt der Exilant seine Gefährten besser kennen. Er erkennt, dass Att
 
 ### Atris, Telos und Nihilus
 
-Der Exilant erwacht und erkennt, dass die Machtverbindung zu Kreia tödlich ist: Stirbt sie, stirbt er mit. Auf Telos IV gibt Kreia vor Atris an, selbst gefallen zu sein, und nennt sich Darth Traya. Atris, die durch ihr Studium der Sith selbst verdorben ist, bekennt ihren Fall. Der Exilant besiegt sie und schont sie. Sie warnt, dass die Sith Telos angreifen und Kreia nach Malachor V aufgebrochen ist. [unsicher: Die englische Wikipedia nennt Kreia Darth Traya und Anführerin der Sith, Wookieepedia lässt Atris „Traya“ als Rolle annehmen; wie beide Aussagen zusammenhängen, ist aus den Quellen nicht klar.] Auf der Citadel-Station wehrt der Exilant mit Telos-Sicherheitskräften und Verstärkung den Angriff ab, dringt mit Visas und den Mandalorianern auf Nihilus' Schiff Ravager ein und stellt ihn zum Duell. Nihilus will die Macht des Exilanten aussaugen, doch das Echo der Wunde schwächt ihn, und mit Visas' Hilfe wird er besiegt. Carth Onasi bittet den Exilanten später, Revan in den Unbekannten Regionen zu suchen.
+Der Exilant erwacht und erkennt, dass die Machtverbindung zu Kreia tödlich ist: Stirbt sie, stirbt er mit. Auf Telos IV gibt sich Kreia Atris gegenüber als die frühere Sith-Lady Darth Traya zu erkennen und nimmt ihr ihre Selbsttäuschung. Atris, die durch ihr Studium der Sith-Holocrons selbst verdorben ist, bekennt ihren Fall. Der Exilant besiegt sie und schont sie. Sie warnt, dass die Sith Telos angreifen und Kreia nach Malachor V aufgebrochen ist. Darth Traya ist Kreia; dass Atris im offiziellen Lösungsbuch als „Darth Traya“ bezeichnet wird, ist laut Wookieepedia ein Fehler des Buchs – im Spiel erhält sie keinen Sith-Namen. Auf der Citadel-Station wehrt der Exilant mit Telos-Sicherheitskräften und Verstärkung den Angriff ab, dringt mit Visas und den Mandalorianern auf Nihilus' Schiff Ravager ein und stellt ihn zum Duell. Nihilus will die Macht des Exilanten aussaugen, doch das Echo der Wunde schwächt ihn, und mit Visas' Hilfe wird er besiegt. Carth Onasi bittet den Exilanten später, Revan in den Unbekannten Regionen zu suchen.
 
 ### Malachor V
 
@@ -86,3 +86,5 @@ Kreias Vision vor ihrem Tod nennt Schicksale der Gefährten, Welten, Mandalorian
 
 1. https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords
 2. https://starwars.fandom.com/wiki/Star_Wars:_Knights_of_the_Old_Republic_II:_The_Sith_Lords
+3. https://starwars.fandom.com/wiki/Atris
+4. https://starwars.fandom.com/wiki/Kreia
