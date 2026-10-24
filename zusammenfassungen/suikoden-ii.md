@@ -5,7 +5,7 @@
 - **Erscheinungsjahr:** 1998 (Japan, 17. Dezember); Nordamerika 29. September 1999, Europa 28. Juli 2000.
 - **Entwickler / Publisher:** Konami (laut Infobox Konami Computer Entertainment Tokyo; Regie und Produktion: Yoshitaka Murayama, Szenario vor allem Murayama).
 - **Plattformen (Erstveröffentlichung):** PlayStation. Später Windows (nur China, 2003), PSP-Kompilation *Suikoden I & II* (Japan 2006), PSN (2014/2015) und HD-Remaster *Gate Rune and Dunan Unification Wars* (2025) für Switch, PS4/PS5, Xbox und PC.
-- **Sprachfassung:** Eine deutsche Übersetzung ist in den ausgewerteten Quellen nicht belegt. [unsicher: Die deutsche Wikipedia war nicht abrufbar; ob es eine deutsche Textfassung der Europa-Version gab, wurde nicht geprüft.] Daher stehen hier die englischen Namen.
+- **Sprachfassung:** Die europäische PlayStation-Fassung (Juli 2000) wurde laut deutscher Wikipedia komplett ins Deutsche übersetzt. Dieser Text stützt sich auf englischsprachige Quellen, daher stehen hier die englischen Namen.
 - **Welt:** Das Jahr 3 nach dem ersten Teil. Im Norden stehen sich das Königreich Highland und die Stadtstaaten von Jowston (Jowston City-States) gegenüber. Magie stammt von den 27 „wahren Runen“.
 - **Protagonist / Perspektive:** Stummer Held, den man in Dorf, Stadt und Weltkarte von oben führt. Die englische Wikipedia nennt als „Canon“-Namen *Riou Genkaku*, der Name ist aber frei wählbar. Das Fan-Wiki führt ihn als *Riou*; in der nicht kanonischen Romanfassung wird er ebenfalls so genannt, im Anime heißt er *Riliu*. Dieser Text sagt „Riou“.
 
@@ -64,9 +64,9 @@ Das Spiel hat mehrere Ausgänge:
 1. **Abbruch mitten im Spiel:** Folgt Riou dem Rat Nanamis, alles aufzugeben und ein friedliches Leben fern des Krieges zu führen, endet das Spiel vorzeitig (laut Fan-Wiki „Coward ending“).
 2. **Präsident:** Nach dem Sieg über die Beast Rune bittet Shu Riou, Anführer der neuen Stadtstaaten-Allianz zu werden. Sagt der Spieler zu, endet die Geschichte; in den Credits steht das Duell mit Jowy noch aus.
 3. **Duell mit Jowy:** Lehnt Riou ab, hält er sein Versprechen und trifft Jowy am Stein vom Anfang. Die geteilte Rune würde beide langsam töten, solange nicht einer stirbt. Greift Riou an und tötet Jowy, wird er Träger der ganzen Rune des Anfangs (Fan-Wiki: „Alternate ending“).
-4. **Bestes Ende:** Weigert sich Riou zu kämpfen, opfert Jowy laut Wikipedia sein Leben, um Riou zu heilen und die Rune zu vereinen. Hat der Spieler alle 108 Sterne und bestimmte weitere Bedingungen erfüllt, greift Leknaat ein: Der Konflikt der Rune ist gelöst, Jowy lebt. Shu erzählt, dass Nanami überlebt hat und ihren Tod auf ihren Wunsch hin nur vorgetäuscht hat, damit Riou sich auf das Kriegsende konzentrieren kann. Die drei vereinen sich bei Genkakus Dojo und reisen gemeinsam durch die Welt.
+4. **Bestes Ende:** Weigert sich Riou zu kämpfen, opfert Jowy laut Wikipedia sein Leben, um Riou zu heilen und die Rune zu vereinen. Hat der Spieler alle 108 Sterne rekrutiert, greift Leknaat ein: Der Konflikt der Rune ist gelöst, Jowy lebt. Shu erzählt, dass Nanami überlebt hat und ihren Tod auf ihren Wunsch hin nur vorgetäuscht hat, damit Riou sich auf das Kriegsende konzentrieren kann. Die drei vereinen sich bei Genkakus Dojo und reisen gemeinsam durch die Welt.
 
-[unsicher: Die Quellen beschreiben das beste Ende unterschiedlich. Die englische Wikipedia nennt als Bedingung alle 108 Sterne plus weitere, nicht genannte Anforderungen. Das Fan-Wiki beschreibt es als „Canon (best) ending“, in dem Riou im Duell nur verteidigt und die Bright-Shield-Rune Jowy heilt. Welche weiteren Anforderungen gelten und ob Jowy ohne alle 108 Sterne stirbt, geht aus den Quellen nicht eindeutig hervor.]
+Laut Fan-Wiki hängt der Ausgang an zwei Dingen: Wurden alle 108 Sterne rekrutiert und verweigert Riou den Kampf, wird Jowy gerettet, und Nanami lebt. Fehlen Sterne, bleibt Nanami tot, und Riou kann Jowy bekämpfen; tut er es, stirbt Jowy.
 
 ## Für eigene Spiele
 
@@ -85,3 +85,5 @@ Das Spiel hat mehrere Ausgänge:
 1. https://en.wikipedia.org/wiki/Suikoden_II
 2. https://suikoden.fandom.com/wiki/Suikoden_II
 3. https://suikoden.fandom.com/wiki/Riou
+4. https://de.wikipedia.org/wiki/Suikoden
+5. https://suikoden.fandom.com/wiki/Jowy_Atreides

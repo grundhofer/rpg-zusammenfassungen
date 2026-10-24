@@ -67,10 +67,10 @@ Nach dem Sieg über die Jagd breitet sich die Weiße Kälte auf dem Kontinent au
 Die Haupthandlung kennt laut englischer Wikipedia drei Enden, die davon abhängen, ob Ciri überlebt und ob Geralt sie dem Kaiser vorgestellt hat:
 
 1. **Ciri überlebt und Geralt hat sie Emhyr vorgestellt:** Ciri wird Kaiserin von Nilfgaard.
-2. **Ciri überlebt, ist Emhyr aber nicht begegnet (oder Nilfgaard hat den Krieg verloren):** Geralt hilft ihr, ihren Tod vorzutäuschen, und sie wird Hexerin. Die deutsche Wikipedia beschreibt dies etwas anders: Geralt sagt Emhyr, sie sei gestorben, und überreicht Ciri ein Hexer-Silberschwert in Weißgarten. [unsicher: Die beiden Quellen formulieren die Bedingung unterschiedlich.]
+2. **Ciri überlebt, ist Emhyr aber nicht begegnet (oder Nilfgaard hat den Krieg verloren):** Geralt hilft ihr, ihren Tod vorzutäuschen, und sie wird Hexerin. Geralt sagt Emhyr, sie sei beim Sieg über die Weiße Kälte gestorben, und übergibt Ciri in der Taverne von Weißgarten ein eigens angefertigtes Silberschwert (so auch die deutsche Wikipedia). Laut Witcher-Fandom-Wiki gilt dieses Ende, wenn Geralt die Punkte der Epilog-Quest ausgeglichen oder mehrheitlich positiv gesammelt hat; wurde Ciri Emhyr vorgestellt, muss zusätzlich Nilfgaard den Krieg verlieren.
 3. **Ciri stirbt:** Geralt tötet die letzte Muhme und trauert still. Sein weiteres Schicksal bleibt offen.
 
-[unsicher: Welche konkreten Entscheidungen im Spielverlauf Ciris Überleben bestimmen, nennt keine der Quellen.] Zusätzlich kann die Handlung laut deutscher Wikipedia auf 36 Arten enden, etwa je nachdem, ob Geralt bei Yennefer, bei Triss oder allein bleibt, wer Skellige regiert und wer den Krieg gewinnt.
+Entscheidend ist laut Witcher-Fandom-Wiki eine Punktwertung aus Gesprächen mit Ciri: In „Blood on the Battlefield“ (aufmunternder Satz „I know what might lift your spirits“ statt „Relax, you don't have to be good at everything“; falls bei Emhyr, die Bezahlung ablehnen statt annehmen), in „Final Preparations“ (Ciri allein zur Loge der Zauberinnen gehen lassen statt mitgehen) und in „Child of the Elder Blood“ („Go for it“ statt „Calm down“; mit zu Skjalls Grab gehen statt fernbleiben). Ab drei negativen Punkten stirbt Ciri; für das Kaiserin-Ende braucht es mindestens drei positive Punkte, die Vorstellung bei Emhyr und einen nilfgaardischen Kriegssieg. Zusätzlich kann die Handlung laut deutscher Wikipedia auf 36 Arten enden, etwa je nachdem, ob Geralt bei Yennefer, bei Triss oder allein bleibt, wer Skellige regiert und wer den Krieg gewinnt.
 
 ## Für eigene Spiele
 
@@ -92,3 +92,4 @@ Die Haupthandlung kennt laut englischer Wikipedia drei Enden, die davon abhänge
 4. https://en.wikipedia.org/w/index.php?title=The_Witcher_3:_Wild_Hunt_%E2%80%93_Blood_and_Wine&action=raw
 5. https://witcher.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Hearts_of_Stone
 6. https://witcher.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Blood_and_Wine
+7. https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_(quest)

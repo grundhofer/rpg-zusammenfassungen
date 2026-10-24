@@ -2,7 +2,7 @@
 
 ## Steckbrief
 
-- **Erscheinungsjahr:** 2000. Windows: Nordamerika 21. September, Europa 29. September (englische Wikipedia); die deutsche Wikipedia nennt den 24. September, ein Fan-Wiki den 26. September [unsicher: Quellen nennen drei verschiedene Starttermine]. Mac OS folgte 2001, die Erweiterung *Thron des Bhaal* im Juni 2001.
+- **Erscheinungsjahr:** 2000. Windows: Nordamerika 21. September, Europa 29. September (englische Wikipedia); die deutsche Wikipedia und GameStar nennen den 24. September, ein Fan-Wiki den 26. September [unsicher: Ein deutscher Starttermin lässt sich nicht belegen; die Quellen geben für 24. und 26. September keine Region an, und eine deutsche Besprechung vom 10. November 2000 nennt nur das Jahr]. Mac OS folgte 2001, die Erweiterung *Thron des Bhaal* im Juni 2001.
 - **Entwickler / Publisher:** BioWare; Publisher Interplay Entertainment (Black Isle Studios als Label). Autor und Designer: James Ohlen, Musik: Michael Hoenig.
 - **Plattformen (Erstveröffentlichung):** Windows, später Mac OS. 2013 erschien die *Enhanced Edition* von Overhaul Games.
 - **Welt:** Die Forgotten Realms nach den Regeln von Advanced Dungeons & Dragons, 2. Edition; Isometrie-Ansicht mit pausierbarer Echtzeit. Der Großteil spielt in und um Athkatla, die Hauptstadt des Händlerreichs Amn, im Jahr 1369 DR.
@@ -31,7 +31,7 @@ Imoen und Irenicus werden in die Anstalt Spellhold auf einer Insel gebracht. Ire
 
 ### Suldanessalar
 
-An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; Irenicus hat die Stadt magisch verborgen und überfallen. Um hineinzukommen, muss die Gruppe Bodhi die Rhynn-Laterne abnehmen. Nach Bodhis Tod erhält Imoen ihre Seele zurück. Die Laterne weist den Weg, und die Gruppe kämpft sich durch die besetzte Stadt. Am Baum des Lebens erfährt sie, dass Irenicus ihm Kraft entzieht, was die Stadt zerstören würde. Das Fan-Wiki nennt als Ziel ein Ritual, das Irenicus unsterblich machen soll; die deutsche Wikipedia nennt Rache an den Elfen und den Aufstieg zum Gott [unsicher: Quellen nennen unterschiedliche Ziele]. Die Gruppe besiegt Irenicus. Weil er die Seele der Hauptfigur noch hält, wird diese mit ihm in die Hölle gezogen, die übrige Gruppe ebenfalls. Nach seiner Niederlage kehren alle ins Leben zurück, und die Elfen ehren sie. Ob und wie die Hauptfigur ihre Seele zurückerhält, nennen die Quellen nicht [unsicher: Seelenrückgabe der Hauptfigur nicht belegt].
+An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; Irenicus hat die Stadt magisch verborgen und überfallen. Um hineinzukommen, muss die Gruppe Bodhi die Rhynn-Laterne abnehmen. Nach Bodhis Tod erhält Imoen ihre Seele zurück. Die Laterne weist den Weg, und die Gruppe kämpft sich durch die besetzte Stadt. Am Baum des Lebens erfährt sie, dass Irenicus ihm Kraft entzieht, was die Stadt zerstören würde. Er will sich mit einem Ritual die verlorene Unsterblichkeit zurückholen und zugleich Rache an den Elfen nehmen; das Fan-Wiki nennt ein Ritual, das ihn unsterblich machen soll, die deutsche Wikipedia den Aufstieg zum Gott, das Forgotten-Realms-Wiki den Aufstieg unter die elfischen Gottheiten. Die Gruppe besiegt Irenicus. Weil er die Seele der Hauptfigur noch hält, wird diese mit ihm in die Hölle gezogen, die übrige Gruppe ebenfalls. Nach seiner Niederlage kehren alle ins Leben zurück, und die Elfen ehren sie. Erst mit Irenicus' endgültiger Niederlage in der Hölle erhält die Hauptfigur laut Fan-Wiki-Komplettlösung ihre Seele zurück.
 
 ### Erweiterung: Thron des Bhaal
 
@@ -40,9 +40,9 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 ## Hauptfiguren
 
 - **Gorions Mündel (Hauptfigur)** – Bhaalskind aus Candlekeep, vom Spieler gestaltet. Vom Opfer eines Experiments entwickelt sich die Figur zu jemandem, der die eigene Macht entdeckt und am Ende über das göttliche Erbe entscheiden muss.
-- **Jon Irenicus** – Elfischer Magier und Hauptgegner, laut deutscher Wikipedia (Joneleth) von seinem Volk ausgestoßen. Er sammelt göttliche Essenz der Bhaalskinder für Rache und Machtgewinn [unsicher: Ziel je nach Quelle verschieden].
+- **Jon Irenicus** – Elfischer Magier und Hauptgegner, laut deutscher Wikipedia (Joneleth) von seinem Volk ausgestoßen. Er sammelt göttliche Essenz der Bhaalskinder, um Rache an den Elfen zu nehmen und die verlorene Unsterblichkeit bzw. göttliche Macht zu gewinnen.
 - **Bodhi** – Irenicus' Schwester und zweite Gegnerin; hält Imoens Seele und jagt die Gruppe.
-- **Imoen** – Jugendfreundin aus Candlekeep, ebenfalls Bhaalskind. Die deutsche Wikipedia nennt sie Halbschwester der Hauptfigur [unsicher: englische Quellen nennen sie nur enge Freundin]. Sie befreit die Hauptfigur und wird selbst Opfer von Irenicus' Ritual.
+- **Imoen** – Jugendfreundin aus Candlekeep, ebenfalls Bhaalskind. Sie wird in der Fortsetzung als Halbschwester der Hauptfigur enthüllt (deutsche und englische Wikipedia). Sie befreit die Hauptfigur und wird selbst Opfer von Irenicus' Ritual.
 - **Jaheira, Minsc, Edwin, Viconia** – Rückkehrer aus Teil 1, als Begleiter anwerbbar. Jaheira ist nach Khalids Tod erschüttert.
 - **Neue Begleiter** – darunter Aerie (geflügelte Elfin ohne Flügel), Anomen und Keldorn (Ritter des Ordens vom Strahlenden Herzen), Mazzy, Nalia, Valygar, Cernd, Haer'Dalis, Jan, Yoshimo und Korgan. Sie bringen eigene Aufträge und Konflikte mit.
 - **Gaelan Bayle, Aran Linvail, Saemon Havarian** – Mittelsmänner und Gildenführer, die der Gruppe Wege nach Spellhold öffnen.
@@ -51,7 +51,7 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 
 ## Enden
 
-*Schatten von Amn* endet mit dem Sieg über Irenicus und der Rückkehr aus der Hölle; ein verzweigtes Ende gibt es dort nicht. Die Enden gehören zu *Thron des Bhaal*: Nach dem Sieg über Amelyssan wählt die Hauptfigur, ob sie den Thron besteigt oder zerstört. Die deutsche Wikipedia nennt drei Möglichkeiten: (1) das Erbe annehmen und neuer böser Gott des Mordes werden, (2) das Erbe annehmen und eine gute Gottheit werden, (3) das Erbe ablehnen und zerstören, um als Sterbliche(r) weiterzuleben, auf Wunsch mit dem Geliebten. Das Fan-Wiki fügt hinzu, dass der weitere Weg der Hauptfigur von früheren Entscheidungen abhängt, etwa davon, wer als Liebespartner gewählt wurde und ob die Figur gut oder böse war. Die genauen Schlussszenen je Begleiter sind in meinen Quellen nicht beschrieben [unsicher: Detailenden nicht abgedeckt].
+*Schatten von Amn* endet mit dem Sieg über Irenicus und der Rückkehr aus der Hölle; ein verzweigtes Ende gibt es dort nicht. Die Enden gehören zu *Thron des Bhaal*: Nach dem Sieg über Amelyssan wählt die Hauptfigur, ob sie den Thron besteigt oder zerstört. Die deutsche Wikipedia nennt drei Möglichkeiten: (1) das Erbe annehmen und neuer böser Gott des Mordes werden, (2) das Erbe annehmen und eine gute Gottheit werden, (3) das Erbe ablehnen und zerstören, um als Sterbliche(r) weiterzuleben, auf Wunsch mit dem Geliebten. Das Fan-Wiki fügt hinzu, dass der weitere Weg der Hauptfigur von früheren Entscheidungen abhängt, etwa davon, wer als Liebespartner gewählt wurde und ob die Figur gut oder böse war. Zusätzlich gibt es Epiloge für Begleiter, die beim Abschluss in der Gruppe sind, laut Fan-Wiki in einer romantischen und einer normalen Fassung; so wird Aerie etwa Hohepriesterin in Understone, Anomen verschwindet im Kampf gegen den Priester Yamash in Maztica.
 
 ## Für eigene Spiele
 
@@ -72,3 +72,8 @@ An der Oberfläche trifft die Gruppe auf das Heer der Elfenstadt Suldanessalar; 
 3. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
 4. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal
 5. https://de.wikipedia.org/wiki/Baldur%E2%80%99s_Gate_II:_Schatten_von_Amn
+6. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II_Chapter_7
+7. https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_2:_Throne_of_Bhaal_Epilogues
+8. https://forgottenrealms.fandom.com/wiki/Jon_Irenicus
+9. https://www.gamestar.de/artikel/baldurs-gate-2-schatten-von-amn-das-rollenspiel-epos-ist-noch-besser-als-baldurs-gate-1,1330016.html
+10. https://www.gameswelt.de/baldurs-gate-ii-schatten-von-amn/test/baldurs-gate-2-schatten-von-amn-2875

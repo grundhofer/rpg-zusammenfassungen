@@ -20,7 +20,7 @@ Je länger sie unterwegs sind, desto seltsamer verhalten sich die Gegner: Manche
 
 Die Handlung beginnt mit einem Einsatz in einer ehemaligen Waffenfabrik. 2B und 9S sollen eine große Kriegsmaschine der Goliath-Klasse ausschalten. Sie siegen, doch weitere Goliaths zwingen sie zur Selbstzerstörung. Weil die Daten von 2B zuvor gesichert wurden, erhält sie im Bunker, der Orbitalbasis von YoRHa, einen neuen Körper mit denselben Erinnerungen. 9S wurde nicht gesichert und hat die Mission vergessen, als beide sich wiedertreffen.
 
-Danach werden sie auf die Erde geschickt, um den Widerstand unter Anemone zu unterstützen, dessen Lager in den Stadtruinen liegt. Dort helfen auch Devola und Popola, zwei ältere Androiden, die sich für Taten ihrer Schwestermodelle verantwortlich fühlen. Draußen treffen die beiden auf sprechende Maschinen und schließlich auf zwei Wesen in Menschengestalt: Adam und Eva (die englische Fassung schreibt „Eve“). [unsicher: Die deutsche Wikipedia nennt „Eva“, „Kommandant“ und „YorHa“, die englischen Quellen „Eve“, „Commander“ und „YoRHa“. Die Schreibweise der deutschen Spielfassung wurde nicht geprüft; hier gilt die deutsche Wikipedia-Schreibweise nur für „Eva“ und „Kommandant“.]
+Danach werden sie auf die Erde geschickt, um den Widerstand unter Anemone zu unterstützen, dessen Lager in den Stadtruinen liegt. Dort helfen auch Devola und Popola, zwei ältere Androiden, die sich für Taten ihrer Schwestermodelle verantwortlich fühlen. Draußen treffen die beiden auf sprechende Maschinen und schließlich auf zwei Wesen in Menschengestalt: Adam und Eva (die englische Fassung schreibt „Eve“). Die deutsche Spielfassung schreibt laut einem Trophäen-Leitfaden „Eva“, „YoRHa“ und „Kommandantin“; die deutsche Wikipedia schreibt dagegen „YorHa“ und „Kommandant“.
 
 Die Aufträge führen durch einen Freizeitpark, in dem kostümierte Maschinen leben, und zu Pascal, einer pazifistischen Maschine, die ein Dorf friedlicher Maschinen beschützt. In den Stadtruinen öffnet sich ein tiefer Krater, der zum Schiff der Außerirdischen führt. Dort finden 2B und 9S, dass die Eindringlinge längst tot sind: Laut Adam haben die Maschinen sie vor Jahrhunderten selbst ausgelöscht. In einem Waldreich treffen sie den „König“ der Maschinen und erleben, wie die abtrünnige A2 ihn vor ihren Augen vernichtet. Auf einem Flugzeugträger taucht eine riesige Maschine auf, danach verschwindet 9S. 2B findet ihn in einer weißen, nachgebauten Stadt, in der Adam sie erwartet und zum Kampf zwingt. Adam will den Tod verstehen, die letzte Grenze zwischen Maschine und Mensch, und trennt dazu sein Bewusstsein vom Netzwerk. 2B tötet ihn. Eva verliert vor Trauer die Beherrschung und hetzt die vernetzten Maschinen auf. Im Kampf gegen ihn dringt 9S in Evas Netzwerk ein und wird dabei selbst beschädigt. Er bittet 2B, ihn zu töten. Sie tut es, obwohl sie weiß, dass sie damit den 9S auslöscht, der jetzt vor ihr steht. Der Abschnitt endet mit Ende A: Die besiegten Maschinen schwingen gemeinsam, und das Bewusstsein von 9S erscheint im Netzwerk wieder.
 
@@ -62,7 +62,7 @@ Das Spiel hat laut Fan-Wiki 27 Enden. Die fünf Hauptenden A bis E sind nötig, 
 - **Ende D:** Im Endkampf wird 9S gewählt. Beide Androiden töten einander. Sterbend darf 9S sich der Arche der Maschinen anschließen, in die der Turm sich verwandelt hat. Ob C oder D zuerst kommt, ist beliebig.
 - **Ende E:** Erst nach C und D. Die Pods verweigern den Befehl, alle Daten zu löschen, und stellen 2B, 9S und A2 wieder her. Das Spiel fragt am Ende, ob man den eigenen Speicherstand opfern will, um anderen Spielern im Abspann zu helfen.
 
-Die Quellen unterscheiden sich in Details: Die deutsche Wikipedia beschreibt Ende C so, dass A2 9S nach dem Kampf „heilt“, das Fan-Wiki so, dass A2 ihn im Geist hackt, um die Störung zu beseitigen. [unsicher: Die Darstellung des genauen Ablaufs von Ende C weicht zwischen den Quellen ab.]
+Die deutsche Wikipedia fasst Ende C knapp so, dass A2 9S nach dem Kampf „heilt“; das Fan-Wiki konkretisiert, wie das geschieht: A2 trennt ihm den Arm ab, hackt mit Pod 042 seinen Geist und lässt ihn dort schlafend zurück, während Pod 042 sich um ihn kümmert. Beide Darstellungen schließen einander nicht aus.
 
 ## Für eigene Spiele
 
@@ -87,3 +87,4 @@ Die Quellen unterscheiden sich in Details: Die deutsche Wikipedia beschreibt End
 7. https://nier.fandom.com/wiki/Meaningless_(C)ode
 8. https://nier.fandom.com/wiki/Chil(D)hood%27s_end
 9. https://nier.fandom.com/wiki/The_(E)nd_of_YoRHa
+10. https://www.trophies.de/forum/thema/139235-troph%C3%A4en-leitfaden-nier-automata/

@@ -3,7 +3,7 @@
 ## Steckbrief
 
 - **Erscheinungsjahr:** 2016 (Japan, 15. September); weltweit 4. April 2017. Die erweiterte Fassung *Persona 5 Royal* folgte 2019 (Japan) bzw. 2020 (weltweit).
-- **Entwickler / Publisher:** P-Studio, eine interne Abteilung von Atlus (Regie und Produktion: Katsura Hashino, Charakterdesign: Shigenori Soejima, Musik: Shoji Meguro). Publisher: Atlus in Japan und Nordamerika, Deep Silver im PAL-Raum, bei *Royal* Sega. [unsicher: Die englische Wikipedia zählt das Spiel als sechsten, die deutsche als fünften Teil der Persona-Reihe; hier wird keine Zählung übernommen.]
+- **Entwickler / Publisher:** P-Studio, eine interne Abteilung von Atlus (Regie und Produktion: Katsura Hashino, Charakterdesign: Shigenori Soejima, Musik: Shoji Meguro). Publisher: Atlus in Japan und Nordamerika, Deep Silver im PAL-Raum, bei *Royal* Sega. Es ist der sechste Hauptteil der Persona-Reihe, wenn man *Persona 2* als zwei Spiele zählt (*Innocent Sin* und *Eternal Punishment*); der deutsche Wikipedia-Artikel zum Spiel spricht vom fünften Teil.
 - **Plattformen (Erstveröffentlichung):** PlayStation 3 und PlayStation 4. *Royal* erschien zunächst für PlayStation 4, 2022 dann für Switch, PlayStation 5, Windows, Xbox One und Xbox Series X/S.
 - **Welt:** Das heutige Tokio mit realen Schauplätzen wie Shibuya, Shinjuku und Akihabara. Daneben das „Meta-Universum“ (englisch Metaverse), eine übernatürliche Ebene aus den verzerrten Wünschen der Menschen. Dort bildet jeder Mensch mit verdorbenem Begehren einen eigenen „Palast“. Das Spiel beginnt am 9. April eines nicht genau benannten Jahres und umfasst etwa ein Schuljahr.
 - **Erzählperspektive / Protagonist:** Ein namenloser, stummer Oberschüler, den der Spieler benennt und dessen Deckname Joker lautet. Der Großteil der Handlung wird als Rückblende erzählt, während er von der Staatsanwältin Sae Nijima verhört wird.
@@ -93,3 +93,5 @@ Der Protagonist stellt sich der Polizei, damit Shido verurteilt wird. Seine Freu
 1. https://en.wikipedia.org/wiki/Persona_5
 2. https://de.wikipedia.org/wiki/Persona_5
 3. https://megamitensei.fandom.com/wiki/Persona_5
+4. https://en.wikipedia.org/wiki/Persona_3
+5. https://de.wikipedia.org/wiki/Persona_(Computerspielreihe)

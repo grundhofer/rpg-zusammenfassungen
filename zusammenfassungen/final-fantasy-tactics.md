@@ -6,8 +6,8 @@
 - **Entwickler / Publisher:** Square (Regie und Szenario: Yasumi Matsuno, Produzent: Hironobu Sakaguchi, Kampfdesign: Hiroyuki Ito, Figurendesign: Akihiko Yoshida, Musik: Hitoshi Sakimoto und Masaharu Iwata).
 - **Plattformen (Erstveröffentlichung):** PlayStation. Später PSP (2007) sowie, mit dem Remaster, PlayStation 4/5, Nintendo Switch (1 und 2), Xbox Series X/S und Windows.
 - **Welt:** Das mittelalterlich geprägte Königreich Ivalice, später Schauplatz weiterer Spiele (u. a. *Final Fantasy XII*). Es liegt auf einer Halbinsel, hat Nachbarn in Ordalia (Osten) und Romanda (Norden) und wird von der Glabados-Kirche um den Heiligen Ajora religiös dominiert. Ruinen und Artefakte deuten auf eine frühere, technisch weiter entwickelte Zivilisation hin.
-- **Erzählperspektive / Protagonist:** Fast durchgehend aus der Sicht von Ramza Beoulve, dem Spielercharakter. Die Geschichte wird als nachträglicher Geschichtsbericht des Gelehrten Alazlam Durai präsentiert (siehe Handlung). Neben den Story-Figuren rekrutiert man frei anpassbare Söldner.
-- **Namen und Sprache:** Genutzt werden die Namen der englischen Fassung *The War of the Lions*. Die deutsche Wikipedia nennt für diese Fassung nur eine japanische und eine englische Veröffentlichung; eine offizielle deutsche Übersetzung ist in den Quellen nicht belegt. Die Schreibweisen schwanken zwischen den Quellen (z. B. Delita Heiral/Hyral, Alazlam/Arazlam Durai, Goltana/Goltanna, Gaffgarion/Gafgarion, Königin Ruvelia/Louveria) [unsicher: Quellen uneinig, welche Variante aus welcher Fassung stammt; hier wird die Schreibweise des Fan-Wikis verwendet].
+- **Erzählperspektive / Protagonist:** Fast durchgehend aus der Sicht von Ramza Beoulve, dem Spielercharakter. Die Geschichte wird als nachträglicher Geschichtsbericht des Gelehrten Arazlam Durai präsentiert (siehe Handlung). Neben den Story-Figuren rekrutiert man frei anpassbare Söldner.
+- **Namen und Sprache:** Genutzt werden die Namen der englischen Fassung *The War of the Lions*. Die deutsche Wikipedia nennt für diese Fassung nur eine japanische und eine englische Veröffentlichung; eine offizielle deutsche Übersetzung ist in den Quellen nicht belegt. Die Schreibweisen unterscheiden sich je nach Fassung: Die PlayStation-Übersetzung von 1997/98 verwendet z. B. Delita Hyral, Alazlam J. Durai, Goltana, Gafgarion, Ruvelia und Olan Durai, die Neuübersetzung für *The War of the Lions* Delita Heiral, Arazlam Durai, Goltanna, Gaffgarion, Louveria und Orran Durai. Hier gelten die Schreibweisen von *The War of the Lions*, wie sie das Fan-Wiki führt.
 
 ## Worum es geht (spoilerfrei)
 
@@ -19,7 +19,7 @@ Mitten darin steht Ramza, der jüngste Sohn einer Adelsfamilie, der mit seinem J
 
 ### Rahmen: Die Durai-Papiere
 
-Der Gelehrte Alazlam Durai stößt auf Schriften seines Vorfahren, die „Durai-Papiere“. Sie widersprechen der offiziellen Geschichtsschreibung: Danach galt Delita Heiral als Held des Löwenkriegs, doch den eigentlich entscheidenden Anteil hatte der Adlige Ramza Beoulve, dessen Rolle aus der Überlieferung getilgt wurde. Das Spiel erzählt, was in den Papieren steht. Am Ende erfährt man, wer sie verfasst hat und was ihm dafür geschah [unsicher: der Vorfahre heißt in der englischen Wikipedia Olan Durai, im Fan-Wiki Orran Durai; hier Orran].
+Der Gelehrte Arazlam Durai stößt auf Schriften seines Vorfahren, die „Durai-Papiere“. Sie widersprechen der offiziellen Geschichtsschreibung: Danach galt Delita Heiral als Held des Löwenkriegs, doch den eigentlich entscheidenden Anteil hatte der Adlige Ramza Beoulve, dessen Rolle aus der Überlieferung getilgt wurde. Das Spiel erzählt, was in den Papieren steht. Am Ende erfährt man, wer sie verfasst hat und was ihm dafür geschah.
 
 ### Prolog: Orbonne
 
@@ -62,7 +62,7 @@ Orran Durai nimmt an der Trauerfeier der Beoulves teil; Ramza ist Ketzer und sei
 
 ## Enden
 
-Die Quellen beschreiben ein einziges Ende ohne Verzweigungen [unsicher: Abwesenheit von Alternativenden nur aus Schweigen der Quellen geschlossen]. Es lässt jedoch zwei Fragen offen: Ramza und Alma entkommen nach dem Kampf gegen Ultima, werden für tot gehalten und entziehen sich der Kirche. In der Fassung des Remasters teleportiert Ramza sich und Alma ausdrücklich zurück nach Ivalice, im Original bleibt das Schicksal der Gruppe nach der Explosion zunächst unklar. Delita wird König, doch sein Verhältnis zu Ovelia endet in Gewalt; ob sie überleben, lässt das Spiel laut Wikipedia offen. Orran Durai zahlt für seine Chronik mit dem Leben, die Wahrheit überlebt nur in den Papieren.
+Die Quellen beschreiben ein einziges Ende; verzweigte Handlungspfade wollte Regisseur Matsuno ursprünglich einbauen, sie wurden laut Fan-Wiki jedoch verworfen. Es lässt jedoch zwei Fragen offen: Ramza und Alma entkommen nach dem Kampf gegen Ultima, werden für tot gehalten und entziehen sich der Kirche. In der Fassung des Remasters teleportiert Ramza sich und Alma ausdrücklich zurück nach Ivalice, im Original bleibt das Schicksal der Gruppe nach der Explosion zunächst unklar. Delita wird König, doch sein Verhältnis zu Ovelia endet in Gewalt; ob sie überleben, lässt das Spiel laut Wikipedia offen. Orran Durai zahlt für seine Chronik mit dem Leben, die Wahrheit überlebt nur in den Papieren.
 
 ## Für eigene Spiele
 
@@ -70,7 +70,7 @@ Die Quellen beschreiben ein einziges Ende ohne Verzweigungen [unsicher: Abwesenh
 - **Zentrale Wendungen:** Die vermeintlich heilige Institution steuert den Krieg selbst; der „Held“ der Geschichtsbücher ist nicht der eigentliche Held. Das funktioniert, weil das Rahmenmotiv die Zweifel an der offiziellen Geschichte von Anfang an legt.
 - **Archetypen und Beziehungen:** Zwei Freunde aus verschiedenen Ständen, deren Wege sich trennen und doch verflochten bleiben (Idealist gegen Pragmatiker); die Kirche als verdeckter Drahtzieher; Familien, die sich gegenseitig vernichten; getreue Ritter als Gegenfigur zu Machtmenschen.
 - **Themen und Motive:** Standesgrenzen, Manipulation durch Religion, Geschichtsschreibung als Machtmittel, Opfer für Krieg und Politik.
-- **Mechanik und Erzählung:** Neben festen Story-Figuren stellt man frei anpassbare Söldner zusammen, und einzelne Figuren lassen sich laut Wikipedia je nach Handlung rekrutieren. Die Quellen behandeln diese Verzahnung kaum [unsicher: Verzahnung von Systemen und Story in den Quellen kaum behandelt].
+- **Mechanik und Erzählung:** Neben festen Story-Figuren stellt man frei anpassbare Söldner zusammen, und einzelne Figuren lassen sich laut Wikipedia je nach Handlung rekrutieren. Für eigene Spiele lässt sich daraus die Frage ableiten, wie frei gestaltbare Figuren und feste Erzählfiguren sinnvoll zusammenspielen.
 - **Übertragbare Ideen:**
   - Eine Geschichte als gefundenes, unvollständiges Dokument erzählen, dessen Verfasser den Ausgang kennt und dessen Schicksal die Aussage stützt.
   - Zwei Freunde mit gleicher Ausgangslage, die verschiedene Antworten auf dieselbe Ungerechtigkeit geben, und ein offener Schlusskonflikt, der keinen klar „richtigen“ Weg bestätigt.
@@ -81,3 +81,10 @@ Die Quellen beschreiben ein einziges Ende ohne Verzweigungen [unsicher: Abwesenh
 1. https://en.wikipedia.org/wiki/Final_Fantasy_Tactics
 2. https://de.wikipedia.org/wiki/Final_Fantasy_Tactics
 3. https://finalfantasy.fandom.com/wiki/Final_Fantasy_Tactics
+4. https://finalfantasy.fandom.com/wiki/Arazlam_Jenomis_Durai
+5. https://finalfantasy.fandom.com/wiki/Orran_Durai
+6. https://finalfantasy.fandom.com/wiki/Delita_Heiral
+7. https://finalfantasy.fandom.com/wiki/Louveria_Atkascha
+8. https://finalfantasy.fandom.com/wiki/Goffard_Gaffgarion
+9. https://finalfantasy.fandom.com/wiki/Druksmald_Goltanna
+10. https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions

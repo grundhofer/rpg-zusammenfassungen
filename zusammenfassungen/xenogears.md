@@ -36,7 +36,7 @@ Die schwimmende Stadt Thames rettet beide. Gebler greift an, um Elly zu entführ
 
 ### 4. Der Weg zu Deus (gerafft in der Spielfassung)
 
-Hinweis zur Einordnung: Laut Wikipedia besteht die zweite Disc überwiegend aus Erzählpassagen von Fei und Elly über die Ereignisse nach der Flucht aus Solaris. Der Entwickler Takahashi gab später an, das Team habe die ursprünglich geplante Menge an Inhalten in der Frist nicht geschafft; die Erzählung sei der Kompromiss gewesen, um das Spiel fertigzustellen. Die folgenden Ereignisse beginnen deshalb ungefähr an dieser Stelle. [unsicher: Die Quellen nennen keine genaue Grenze zwischen gespielten und erzählten Abschnitten; welche Ereignisse unten tatsächlich erzählt statt gespielt werden, ist nicht belegt.]
+Hinweis zur Einordnung: Laut Wikipedia besteht die zweite Disc überwiegend aus Erzählpassagen von Fei und Elly über die Ereignisse nach der Flucht aus Solaris. Der Entwickler Takahashi gab später an, das Team habe die ursprünglich geplante Menge an Inhalten in der Frist nicht geschafft; die Erzählung sei der Kompromiss gewesen, um das Spiel fertigzustellen. Die Grenze liegt damit bei der Flucht aus Solaris, dem Ende der ersten Disc. Laut Kotaku-Interview mit Takahashi werden danach etwa die Mutation der Welt und die Suche nach Fei nur noch erzählt, ebenso das Finale (als Diashow). Die folgenden Ereignisse sind deshalb größtenteils erzählt statt gespielt; welche einzelnen Abschnitte der zweiten Disc doch spielbar sind, nennen die Quellen nicht.
 
 Krelian bringt Ramsus dazu, den Kaiser zu töten. Das Ministerium setzt den Gaetia-Schlüssel ein, der die DNA vieler Menschen verändert und sie in Wels verwandelt. Aus deren Fleisch soll Deus wiederaufgebaut werden. Fei und Elly kommen sich näher und erfahren, dass sie die Wiedergeburten von Lacan und Sophia sind. Krelian entmachtet das Ministerium und entführt Elly, die „Mutter“, mit Miang, die für die Wiedererweckung von Deus geopfert werden müsse. Ramsus erkennt, dass er benutzt wurde, und tötet Miang; Elly wird zu Miang. Vor ihrer Absorption durch Deus verrät Miang, dass Deus der Kern eines Invasionssystems ist. Fei will als Id den Zohar erreichen, wird aber von Wiseman gestoppt, der sich als Feis Vater zu erkennen gibt: Wiseman ist eine zweite Persönlichkeit in Feis Vater Khan Wong, entstanden, als Grahf zehn Jahre zuvor in Khans Körper eindrang. Fei trifft das Wave Existence und erfährt, er müsse Deus zerstören. Grahf, der in Feis Vater gesteckt hat, will sich mit Fei vereinigen, unterliegt und opfert sich. Ramsus, ein von Krelian und Miang geschaffener Klon Kaiser Cains, greift ein letztes Mal an und wird besiegt. Später wird er gerettet und gibt seinen Hass auf.
 
@@ -63,7 +63,7 @@ Fei will Deus zerstören, um das Wave Existence und Elly zu befreien. In Merkaba
 
 ## Enden
 
-Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren nach dem Kampf gegen Urobolus mit dem Xenogears auf ihren Planeten zurück, Krelian steigt auf. [unsicher: Keine der verwendeten Quellen erwähnt alternative Enden oder Entscheidungen, die das Ende verändern; dass es keine gibt, ist damit nicht belegt.]
+Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren nach dem Kampf gegen Urobolus mit dem Xenogears auf ihren Planeten zurück, Krelian steigt auf. [unsicher: Weder Wikipedia noch das Fandom-Wiki noch das Kotaku-Interview erwähnen alternative Enden oder Entscheidungen, die das Ende verändern; eine ausdrückliche Aussage, dass es nur ein Ende gibt, fand sich nur in einem Forenbeitrag und gilt daher nicht als belegt.]
 
 ## Für eigene Spiele
 
@@ -87,3 +87,4 @@ Die Quellen beschreiben genau ein Ende: Deus wird besiegt, Fei und Elly kehren n
 6. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Miang_Hawwa
 7. https://xenogears.fandom.com/api.php?action=parse&prop=wikitext&format=json&page=Abel
 8. https://en.wikipedia.org/wiki/Characters_of_Xenogears
+9. https://kotaku.com/the-real-story-behind-xenogears-unfinished-disc-2-1796151112
