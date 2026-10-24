@@ -1,8 +1,11 @@
 title: RPG-Geschichten
 description: Story-Zusammenfassungen klassischer Rollenspiele und Abenteuer – mit Analyse für eigene Spiele
 lang: de
-theme: jekyll-theme-primer
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
   - scope:
       path: "zusammenfassungen"
     values:

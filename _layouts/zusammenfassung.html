@@ -4,15 +4,14 @@ layout: default
 {% assign spiele = site.pages | where_exp: "p", "p.dir == '/zusammenfassungen/'" | sort: "title" %}
 {% for p in spiele %}{% if p.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
 {% assign vor = i | minus: 1 %}{% assign nach = i | plus: 1 %}
-<nav class="spiel-nav">
-<p><a href="{{ '/' | relative_url }}">← Alle Spiele</a></p>
+<nav class="sb-breadcrumb site-crumb" aria-label="Brotkrumen">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Alle Spiele</a></li>
+    <li><span aria-current="page">{{ page.title | split: " – " | first }}</span></li>
+  </ol>
 </nav>
 {{ content }}
-<hr>
-<nav class="spiel-nav">
-<p>
-{% if i > 0 %}<a href="{{ spiele[vor].url | relative_url }}">← {{ spiele[vor].title | split: " – " | first }}</a>{% endif %}
- · <a href="{{ '/' | relative_url }}">Alle Spiele</a> ·
-{% if nach < spiele.size %}<a href="{{ spiele[nach].url | relative_url }}">{{ spiele[nach].title | split: " – " | first }} →</a>{% endif %}
-</p>
+<nav class="site-pager" aria-label="Weitere Spiele">
+{% if i > 0 %}<a class="sb-pager" href="{{ spiele[vor].url | relative_url }}"><span class="sb-pager__label">Vorheriges Spiel</span><span class="sb-pager__title">{{ spiele[vor].title | split: " – " | first }}</span></a>{% endif %}
+{% if nach < spiele.size %}<a class="sb-pager sb-pager--next" href="{{ spiele[nach].url | relative_url }}"><span class="sb-pager__label">Nächstes Spiel</span><span class="sb-pager__title">{{ spiele[nach].title | split: " – " | first }}</span></a>{% endif %}
 </nav>

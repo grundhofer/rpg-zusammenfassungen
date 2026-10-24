@@ -1,0 +1,7 @@
+/* Seitenlayout der RPG-Geschichten; Farben, Schrift und Abstände nur über sebaro-Tokens */
+.site-main { padding-block: var(--sb-spacing-section); }
+.site-main h1 { font: var(--sb-type-display); letter-spacing: var(--sb-type-display-tracking); margin: 0 0 var(--sb-space-4); }
+.site-main h2 { margin-block-start: var(--sb-spacing-section); }
+.site-crumb { margin: 0 0 var(--sb-space-4); }
+.site-pager { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); column-gap: var(--sb-space-6); margin-block-start: var(--sb-spacing-section); max-inline-size: var(--sb-size-measure-prose); }
+.site-pager .sb-pager--next { text-align: end; }

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<script src="{{ '/assets/sebaro/js/theme-init.js' | relative_url }}"></script>
+<title>{% if page.url == '/' %}{{ site.title }}{% else %}{{ page.title | split: ' – ' | first }} · {{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="stylesheet" href="{{ '/assets/sebaro/fonts/fonts.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/sebaro/tokens.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/sebaro/css/sebaro.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body class="sb-page" id="top">
+<a class="sb-skip-link" href="#inhalt">Zum Inhalt</a>
+<header class="sb-site-header">
+  <a class="sb-lockup" href="{{ '/' | relative_url }}"><span class="sb-wordmark">{{ site.title }}</span></a>
+  <div class="sb-site-header__links"><a href="{{ '/muster.html' | relative_url }}">Erzählmuster</a></div>
+  <button class="sb-theme-button" type="button" data-sb-theme-button>Hell oder Dunkel</button>
+</header>
+<main id="inhalt" class="sb-container site-main">
+  <div class="sb-prose">
+{{ content }}
+  </div>
+</main>
+<footer class="sb-site-footer">
+  <p>{{ site.title }} · Texte unter <a href="{{ '/LICENSE.html' | relative_url }}">CC BY-SA 4.0</a> · Gestaltung: sebaro</p>
+  <ul class="sb-site-footer__links">
+    <li><a href="https://github.com/grundhofer/rpg-zusammenfassungen">Quelltext</a></li>
+  </ul>
+</footer>
+<p class="sb-visually-hidden" role="status" data-sb-theme-status></p>
+<script src="{{ '/assets/sebaro/js/theme-button.js' | relative_url }}"></script>
+</body>
+</html>
